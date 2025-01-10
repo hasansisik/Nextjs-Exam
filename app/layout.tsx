@@ -15,14 +15,16 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-
-
 export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+
+  const handleMenuClick = () => {
+    setMobileMenuOpen(false);
+  };
 
   return (
     <html lang="en">
@@ -31,11 +33,13 @@ export default function RootLayout({
       >
         <header className="h-16 border-b flex items-center px-8">
           <div className="flex items-center gap-8 w-full">
-            <Image src="/4.png" alt="Logo" width={150} height={32} />            
+            <Link href="/">
+              <Image src="/4.png" alt="Logo" width={150} height={32} />
+            </Link>            
             {/* Desktop Menu */}
             <nav className="hidden md:flex gap-6 ml-8">
-              <Link href="/exam" className="hover:text-blue-600">Sınavlar</Link>
-              <Link href="/lesson" className="hover:text-blue-600">Dersler</Link>
+              <Link href="/exam" onClick={handleMenuClick} className="hover:text-purple-600">Sınavlar</Link>
+              <Link href="/lesson" onClick={handleMenuClick} className="hover:text-purple-600">Dersler</Link>
             </nav>
 
             {/* Mobile Menu Button */}
@@ -54,8 +58,8 @@ export default function RootLayout({
         {mobileMenuOpen && (
           <div className="md:hidden border-b bg-white">
             <nav className="flex flex-col py-4 px-8">
-              <Link href="/exam" className="py-2 hover:text-blue-600">Sınavlar</Link>
-              <Link href="/lesson" className="py-2 hover:text-blue-600">Dersler</Link>
+              <Link href="/exam" onClick={handleMenuClick} className="py-2 hover:text-purple-600">Sınavlar</Link>
+              <Link href="/lesson" onClick={handleMenuClick} className="py-2 hover:text-purple-600">Dersler</Link>
             </nav>
           </div>
         )}

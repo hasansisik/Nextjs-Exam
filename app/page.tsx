@@ -3,7 +3,12 @@ import Link from "next/link";
 import { useState } from "react";
 
 export default function Home() {
-  const [showDialog, setShowDialog] = useState(true);
+  const [showDialog, setShowDialog] = useState(() => {
+    if (typeof window !== 'undefined') {
+      return !localStorage.getItem('passwordVerified');
+    }
+    return true;
+  });
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
 
@@ -12,6 +17,7 @@ export default function Home() {
     if (password === 'Kurstanbul2025') {
       setShowDialog(false);
       setError('');
+      localStorage.setItem('passwordVerified', 'true');
     } else {
       setError('Verilen şifre yanlış');
     }
