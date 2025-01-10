@@ -96,6 +96,27 @@ export default function ExamPage({ params }: { params: Promise<{ examId: string 
     }
   }
 
+  const renderQuestionContent = (text: string) => {
+    const parts = text.split(/(https?:\/\/[^\s]+)/g);
+    return parts.map((part, index) => {
+      if (part.match(/^https?:\/\//)) {
+        return (
+          <div key={index} className="my-4 max-w-[300px] mx-auto">
+            <img 
+              src={part} 
+              alt="Soru görseli" 
+              className="w-full h-auto object-contain rounded-lg" 
+              style={{
+                maxHeight: '200px'
+              }}
+            />
+          </div>
+        );
+      }
+      return <span key={index}>{part}</span>;
+    });
+  };
+
   const currentQuestion = exam.questions[currentQuestionIndex]
 
   return (
@@ -121,7 +142,7 @@ export default function ExamPage({ params }: { params: Promise<{ examId: string 
       <Card>
         <CardHeader>
           <CardTitle className="text-lg">
-            {currentQuestion.question}
+            {renderQuestionContent(currentQuestion.question)}
           </CardTitle>
         </CardHeader>
         <CardContent>
@@ -140,7 +161,9 @@ export default function ExamPage({ params }: { params: Promise<{ examId: string 
                   value={option.charAt(0)}
                   id={`${currentQuestionIndex}-${optionIndex}`}
                 />
-                <Label htmlFor={`${currentQuestionIndex}-${optionIndex}`}>{option}</Label>
+                <Label htmlFor={`${currentQuestionIndex}-${optionIndex}`}>
+                  {renderQuestionContent(option)}
+                </Label>
               </div>
             ))}
           </RadioGroup>
