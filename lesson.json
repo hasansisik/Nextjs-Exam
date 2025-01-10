@@ -1,0 +1,62 @@
+[
+  {
+    "desc": "Trafik ve Çevre Bilgisi Açıklaması",
+    "id": 1,
+    "images": "/0.png",
+    "products": [
+      {
+        "desc": "Trafik isaretleri ve levhalar Açıklaması",
+        "file": "D1K1",
+        "id": 11,
+        "images": "https://deryasurucukursu.net/wp-content/uploads/2022/11/trafik-lev-2.jpg",
+        "title": "Trafik isaretleri ve levhalar"
+      }
+    ],
+    "title": "Trafik ve Cevre Bilgisi"
+  },
+  {
+    "desc": "Arac Teknigi (Motor Bilgisi) Açıklaması",
+    "id": 2,
+    "images": "/2.png",
+    "products": [
+      {
+        "desc": "Motorun temel calisma prensipleri Açıklaması",
+        "file": "D2K1",
+        "id": 21,
+        "images": "https://deryasurucukursu.net/wp-content/uploads/2022/11/trafik-lev-2.jpg",
+        "title": "Motorun temel calisma prensipleri"
+      }
+    ],
+    "title": "Arac Teknigi (Motor Bilgisi)"
+  },
+  {
+    "desc": "Ilk Yardim Bilgisi Açıklaması",
+    "id": 3,
+    "images": "/1.png",
+    "products": [
+      {
+        "desc": "Temel yasam destegi (ABC kontrolu) Açıklaması",
+        "file": "D3K1",
+        "id": 31,
+        "images": "https://deryasurucukursu.net/wp-content/uploads/2022/11/trafik-lev-2.jpg",
+        "title": "Temel yasam destegi (ABC kontrolu)"
+      }
+    ],
+    "title": "Ilk Yardim Bilgisi"
+  },
+  {
+    "desc": "Trafik Adabi Açıklaması",
+    "id": 4,
+    "images": "/3.png",
+    "products": [
+      {
+        "desc": "Trafik ve Çevre Bilgisi Açıklaması",
+        "file": "D4K1",
+        "id": 41,
+        "images": "https://deryasurucukursu.net/wp-content/uploads/2022/11/trafik-lev-2.jpg",
+        "title": "Duraklama Ve Park Etme İşaret Levhaları"
+      }
+    ],
+    "title": "Trafik Adabi"
+  }
+]
