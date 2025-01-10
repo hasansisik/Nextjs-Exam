@@ -25,8 +25,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen flex flex-col`}
       >
+        <header className="h-16 border-b flex items-center px-8">
+          <h1 className="text-xl font-bold">Öğretmen Paneli</h1>
+        </header>
         {children}
       </body>
     </html>
