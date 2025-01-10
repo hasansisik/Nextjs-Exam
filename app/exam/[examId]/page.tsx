@@ -5,14 +5,29 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group"
 import { Label } from "@/components/ui/label"
 import { Button } from "@/components/ui/button"
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogFooter,
+  DialogHeader,
+  DialogTitle,
+} from "@/components/ui/dialog"
 import exams from '@/exams.json'
-import { useToast } from '@/hooks/use-toast'
 import { ScrollArea } from '@/components/ui/scroll-area'
+import { useRouter } from 'next/navigation'
 
 export default function ExamPage({ params }: { params: Promise<{ examId: string }> }) {
+  const router = useRouter()
   const [userAnswers, setUserAnswers] = useState<{ [key: string]: string }>({})
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0)
-  const { toast } = useToast()
+  const [showResults, setShowResults] = useState(false)
+  const [examResults, setExamResults] = useState({
+    correct: 0,
+    incorrect: 0,
+    totalPoints: 0,
+    passed: false
+  })
   
   const resolvedParams = use(params)
   const exam = exams.find(exam => exam.id === resolvedParams.examId)
@@ -23,16 +38,32 @@ export default function ExamPage({ params }: { params: Promise<{ examId: string 
 
   const handleSubmit = () => {
     let correctCount = 0
+    let incorrectCount = 0
+
     exam.questions.forEach((question, index) => {
       if (userAnswers[index] === question.correctAnswer) {
         correctCount++
+      } else if (userAnswers[index]) { // Only count as incorrect if answered
+        incorrectCount++
       }
     })
 
-    toast({
-      title: "Sınav Sonucu",
-      description: `${exam.questions.length} sorudan ${correctCount} doğru cevapladınız.`
+    const totalPoints = correctCount * 2
+    const passed = totalPoints >= 70
+
+    setExamResults({
+      correct: correctCount,
+      incorrect: incorrectCount,
+      totalPoints,
+      passed
     })
+
+    setShowResults(true)
+  }
+
+  const handleDialogClose = () => {
+    setShowResults(false)
+    router.push('/exam')
   }
 
   const handleNext = () => {
@@ -44,6 +75,24 @@ export default function ExamPage({ params }: { params: Promise<{ examId: string 
   const handlePrevious = () => {
     if (currentQuestionIndex > 0) {
       setCurrentQuestionIndex(prev => prev - 1)
+    }
+  }
+
+  const getButtonVariant = (index: number) => {
+    const currentAnswer = userAnswers[index];
+    const correctAnswer = exam.questions[index].correctAnswer;
+
+    if (!currentAnswer) {
+      // Henüz cevaplanmamış soru
+      return currentQuestionIndex === index ? "default" : "outline";
+    }
+
+    if (currentAnswer === correctAnswer) {
+      // Doğru cevap verilmiş
+      return "success";
+    } else {
+      // Yanlış cevap verilmiş
+      return "destructive";
     }
   }
 
@@ -77,7 +126,7 @@ export default function ExamPage({ params }: { params: Promise<{ examId: string 
         </CardHeader>
         <CardContent>
           <RadioGroup
-            value={userAnswers[currentQuestionIndex]}
+            value={userAnswers[currentQuestionIndex] || ""}
             onValueChange={(value) => {
               setUserAnswers(prev => ({
                 ...prev,
@@ -106,10 +155,10 @@ export default function ExamPage({ params }: { params: Promise<{ examId: string 
           Önceki Soru
         </Button>
         <Button
-          onClick={handleNext}
-          disabled={currentQuestionIndex === exam.questions.length - 1}
+          onClick={currentQuestionIndex === exam.questions.length - 1 ? handleSubmit : handleNext}
+          variant={currentQuestionIndex === exam.questions.length - 1 ? "destructive" : "default"}
         >
-          Sonraki Soru
+          {currentQuestionIndex === exam.questions.length - 1 ? "Sınavı Bitir" : "Sonraki Soru"}
         </Button>
       </div>
       <ScrollArea className="my-5">
@@ -117,7 +166,7 @@ export default function ExamPage({ params }: { params: Promise<{ examId: string 
           {exam.questions.map((_, index) => (
             <Button
               key={index}
-              variant={currentQuestionIndex === index ? "default" : "outline"}
+              variant={getButtonVariant(index)}
               onClick={() => setCurrentQuestionIndex(index)}
             >
               {index + 1}
@@ -125,6 +174,31 @@ export default function ExamPage({ params }: { params: Promise<{ examId: string 
           ))}
         </div>
       </ScrollArea>
+
+      <Dialog open={showResults} onOpenChange={handleDialogClose}>
+        <DialogContent>
+          <DialogHeader>
+            <DialogTitle>Sınav Sonucu</DialogTitle>
+          </DialogHeader>
+          <div className="pt-4 space-y-2">
+            <DialogDescription asChild>
+              <div>
+                <div>Toplam Soru: {exam.questions.length}</div>
+                <div className="text-green-600">Doğru Sayısı: {examResults.correct}</div>
+                <div className="text-red-600">Yanlış Sayısı: {examResults.incorrect}</div>
+                <div>Boş Sayısı: {exam.questions.length - (examResults.correct + examResults.incorrect)}</div>
+                <div className="font-bold">Toplam Puan: {examResults.totalPoints}</div>
+                <div className={`text-lg font-bold ${examResults.passed ? 'text-green-600' : 'text-red-600'}`}>
+                  {examResults.passed ? 'Yazılı Sınavı Geçtiniz!' : 'Yazılı Sınavdan Kaldınız!'}
+                </div>
+              </div>
+            </DialogDescription>
+          </div>
+          <DialogFooter>
+            <Button onClick={handleDialogClose}>Tamam</Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
     </div>
   )
 }

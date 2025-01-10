@@ -1,23 +1,38 @@
-import exams from '@/exams.json';
+'use client'
+
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { useRouter } from "next/navigation"
+import exams from '@/exams.json'
 
 export default function ExamPage() {
+  const router = useRouter()
+
+  const handleExamClick = (examId: string) => {
+    router.push(`/exam/${examId}`)
+  }
+
   return (
-    <div className="p-8">
-      {/* Grid Section */}
-      <div>
-        <h2 className="text-xl font-semibold mb-4">Tüm Sınavlar</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-          {exams.map((exam) => (
-            <div 
-              key={exam.id}
-              className="p-6 border rounded-lg shadow-sm bg-white hover:shadow-md transition-shadow"
-            >
-              <h3 className="font-medium text-gray-800">{exam.desc}</h3>
-              <p className="mt-2 text-sm text-gray-600">{exam.title}</p>
-            </div>
-          ))}
-        </div>
+    <div className="container mx-auto p-4">
+      <h1 className="text-2xl font-bold mb-6">Sınavlar</h1>
+      <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+        {exams.map((exam) => (
+          <Card 
+            key={exam.id} 
+            className="cursor-pointer hover:shadow-lg transition-shadow"
+            onClick={() => handleExamClick(exam.id)}
+          >
+            <CardHeader>
+              <CardTitle>{exam.title}</CardTitle>
+            </CardHeader>
+            <CardContent>
+              <p className="text-gray-600">{exam.desc}</p>
+              <p className="text-sm text-gray-500 mt-2">
+                Soru Sayısı: {exam.questions.length}
+              </p>
+            </CardContent>
+          </Card>
+        ))}
       </div>
     </div>
-  );
+  )
 }
