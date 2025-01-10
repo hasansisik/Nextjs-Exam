@@ -1,0 +1,594 @@
+[
+  {
+    "desc": "Ehliyet Sınavı Çıkmış Sorular",
+    "id": "1f7b6b7a8b0b4d001f1f4c8d1",
+    "questions": [
+      {
+        "correctAnswer": "A",
+        "options": [
+          "A) Sözlü ve gürültülü uyaranlara cevap vermesi",
+          "B) Göz bebeklerinin farklı büyüklükte olması",
+          "C) Ağrılı uyaranlara cevap vermesi",
+          "D) Tüm uyaranlara tepkisiz olması"
+        ],
+        "question": "1) Bir trafik kazası sonucunda yaralanan kazazedenin durumunun ağırlığını ve ciddiyetini gösteren bulgulardan biride bilinç düzeyidir. Aşağıdakilerden hangisi 1. derece bilinç düzeyini gösteren bir bulgudur?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) 30 kalp masajı, 2 suni solunumu 5 tur uyguladıktan sonra",
+          "B) 60 kalp masajı, 1 suni solunumu 5 tur uyguladıktan sonra",
+          "C) 30 kalp masajı, 2 suni solunum uygulamasının hemen sonrası",
+          "D) 60 kalp masajı, 2 suni solunum uygulamasının hemen sonrası"
+        ],
+        "question": "2) Kalp ve solunumu durmuş bir çocuğa (1-8yaş), ilk yardım yapan kişi tek başına ise aşağıdakilerden hangisini uyguladıktan sonra tıbbi yardım istemelidir?"
+      },
+      {
+        "correctAnswer": "B",
+        "options": [
+          "A) Bilincini kaybeden",
+          "B) Açık karın yarası olan",
+          "C) Solunum zorluğu olan",
+          "D) Ayak bileğinde çıkık olan"
+        ],
+        "question": "3) Çok sayıda yaralının olduğu kazalarda en son taşınması gereken yaralı aşağıdakilerden hangisidir?"
+      },
+      {
+        "correctAnswer": "D",
+        "options": [
+          "A) Yalnız I",
+          "B) I ve II",
+          "C) II ve III",
+          "D) I, II ve III"
+        ],
+        "question": "4) I- Kazazede sakinleştirilir, endişeleri giderilir. II- Kanama ciddi ise, kulağı tıkamadan temiz bezlerle kapatılır. III- Kazazede bilinçsiz ise kanayan kulak üzerine yan yatırılır. Kulak kanaması olan bir kazazedeye, yukarıda verilenlerden hangilerinin yapılması doğru bir ilk yardım uygulamasıdır?"
+      },
+      {
+        "correctAnswer": "B",
+        "options": [
+          "A) Kafatası eklemlerinde",
+          "B) Hareketli eklem yerlerinde",
+          "C) Diz ile kalça arasındaki kemikte",
+          "D) Dirsek ile omuz arasındaki kemikte"
+        ],
+        "question": "5) Kaza sonucu vücudun hangi kısımlarında çıkık görülebilir?"
+      },
+      {
+        "correctAnswer": "B",
+        "options": [
+          "A) Sıkıştırıcı bir bandajla burkulan eklemin tespit edilmesi",
+          "B) Şişliği azaltmak için bölgenin vücut seviyesinden aşağıya indirilmesi",
+          "C) Burkulan eklem yüzeyinin sürekli hareket ettirilmesi",
+          "D) Boğucu sargı (turnike) uygulanması"
+        ],
+        "question": "6) Aşağıdakilerden hangisi burkulmalarda yapılması gereken ilk yardım uygulamalarındandır?"
+      },
+      {
+        "correctAnswer": "D",
+        "options": [
+          "A) Yaşı",
+          "B) Boyu",
+          "C) Cinsiyeti",
+          "D) Vücut ısısı"
+        ],
+        "question": "7) Kazazedenin durumu değerlendirilirken yaşam bulgularının var veya yok olması yapılacak müdahaleler için önem taşımaktadır. Buna göre, aşağıdakilerden hangisi kazazedenin yaşam bulguları içerisinde yer alır?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) Kaza zamanı",
+          "B) Açık ve net adres",
+          "C) Yaralıların kimlikleri",
+          "D) Yaralıların durumu ve sayısı"
+        ],
+        "question": "8) Kaza yerinden, tıbbi yardım istenirken aşağıdakilerden hangisinin bildirilmesine gerek yoktur?"
+      },
+      {
+        "correctAnswer": "D",
+        "options": [
+          "A) Başını her zaman düz tutması",
+          "B) Yavaş ve düzgün adımlarla yürümesi",
+          "C) Yerden destek alacak şekilde her iki ayağını da kullanması",
+          "D) Kazazedeyi mümkün olduğunca çok hareket ettirmesi"
+        ],
+        "question": "9) Aşağıdakilerden hangisi, yaralı taşımalarında ilk yardımcının uyması gereken kurallardan biri değildir?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) Trafik kazalarının önlenmesi",
+          "B) Mesleki başarının artırılması",
+          "C) Hayati tehlikenin ortadan kaldırılması",
+          "D) Ülkedeki sağlık sisteminin iyileştirilmesi"
+        ],
+        "question": "10) Aşağıdakilerden hangisi ilk yardımın öncelikli amaçlarındandır?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) Uzuv kopması varsa",
+          "B) Baskı noktalarına baskı uygulamak yeterliyse",
+          "C) Çok sayıda kazazedenin bulunduğu bir ortamda tek ilk yardımcı varsa",
+          "D) Kanaması durdurulamayan kazazede güç koşullarda bir yere taşınacaksa"
+        ],
+        "question": "11) Resimde görülen ilk yardım uygulaması, aşağıdaki durumların hangisinde tercih edilmez?"
+      },
+      {
+        "correctAnswer": "D",
+        "options": [
+          "A) Deride kızarıklık olması",
+          "B) Bilinç seviyesinin artması",
+          "C) Vücut sıcaklığının artması",
+          "D) Nabzın hızlı ve zayıf olması"
+        ],
+        "question": "12) Aşağıdakilerden hangisi \"şok\" belirtilerindendir?"
+      },
+      {
+        "correctAnswer": "D",
+        "options": [
+          "A) Yerlerinin değiştirilmesi",
+          "B) Üzerlerine yazı yazılması",
+          "C) Görülmelerinin engellenmesi",
+          "D) Eskiyenlerin yenileriyle değiştirilmesi"
+        ],
+        "question": "13) İşaret levhalarıyla ilgili aşağıdaki davranışlardan hangisi trafiği tehlikeye düşürmez?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) 20",
+          "B) 30",
+          "C) 40",
+          "D) 50"
+        ],
+        "question": "14) Tehlikeli madde taşıyan araç sürücüsü, yerleşim yeri dışındaki kara yolunda saatte 60 kilometre hızla seyrederken önündeki araçla arasında en az kaç metre mesafe bırakmalıdır?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) Dingil ağırlığı",
+          "B) Taşıma sınırı",
+          "C) Gabari",
+          "D) Hız sınırlayıcı"
+        ],
+        "question": "15) Araçların yüklü veya yüksüz olarak kara yolunda güvenli seyirlerini temin amacı ile uzunluk, genişlik ve yüksekliklerini belirleyen ölçülere ne denir?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) Banketten gitmelidir.",
+          "B) Aracının hızını artırmalıdır.",
+          "C) Öndeki aracı geçmemelidir.",
+          "D) Geçiş hakkını kendisi kullanmalıdır."
+        ],
+        "question": "16) Şekildeki trafik işaretini gören sürücü aşağıdakilerden hangisini yapmalıdır?"
+      },
+      {
+        "correctAnswer": "B",
+        "options": [
+          "A) Sürücü belgesi",
+          "B) Araç bakım kartı",
+          "C) Araç tescil belgesi",
+          "D) Nüfus hüviyet cüzdanı"
+        ],
+        "question": "17) Aşağıdakilerden hangisi, trafik denetim görevlilerinin istemesi halinde sürücülerin beyan etmek zorunda olduğu belgelerden biri değildir?"
+      },
+      {
+        "correctAnswer": "B",
+        "options": [
+          "A) İniş eğimli yollarda motorun durdurulması",
+          "B) Bakım sırasında çıkan eski parça ve malzemelerin çevreye bilinçsizce bırakılmaması",
+          "C) Taşıtlarda kalitesiz yakıtların kullanılması",
+          "D) Taşıtlardan dışarıya malzeme atılması"
+        ],
+        "question": "18) Aşağıdakilerden hangisi çevre kirliliğini önleme açısından olumlu bir davranıştır?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) Geç işareti",
+          "B) Dur işareti",
+          "C) Yavaşlatma işareti",
+          "D) Hızlandırma işareti"
+        ],
+        "question": "19) Trafik görevlisinin geceleyin ışıklı işaret çubuğunu şekildeki gibi hareket ettirmesinin sürücüler için anlamı nedir?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) 70 metreden sonra yolun daralacağını",
+          "B) 70 metreden sonra park alanı olduğunu",
+          "C) Saatteki hızın 70 kilometreyi geçmeyeceğini",
+          "D) Takip mesafesinin 70 metreden az olmayacağını"
+        ],
+        "question": "20) Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?"
+      },
+      {
+        "correctAnswer": "B",
+        "options": [
+          "A) 1",
+          "B) 2",
+          "C) 3",
+          "D) 4"
+        ],
+        "question": "21) Şekle göre, hangi numaralı araç sürücüsünün yaptığı, öndeki aracı geçme kuralına aykırıdır?"
+      },
+      {
+        "correctAnswer": "B",
+        "options": [
+          "A) Lastik tekerlekli traktör",
+          "B) Motorlu bisiklet",
+          "C) Kamyon",
+          "D) Otobüs"
+        ],
+        "question": "22) E sınıfı sürücü belgesi sahibi olanlar aşağıdaki araçlardan hangisini kullanamaz?"
+      },
+      {
+        "correctAnswer": "D",
+        "options": [
+          "A) Gözlerinin iyi görmediği",
+          "B) Hız kurallarına uymadığı",
+          "C) Araç lastiklerinin eski olduğu",
+          "D) Takip mesafesi kuralını ihlal ettiği"
+        ],
+        "question": "23) Şekle göre 1 numaralı araca arkadan çarpan 2 numaralı araç sürücüsü hakkında aşağıdakilerden hangisi kesinlikle söylenir?"
+      },
+      {
+        "correctAnswer": "A",
+        "options": [
+          "A) Koruma başlığı ve koruma gözlüğü",
+          "B) Rüzgârlık ve boyun korsesi",
+          "C) Eldiven ve emniyet kemeri",
+          "D) Çocuk bağlama sistemi"
+        ],
+        "question": "24) Motorlu bisiklet, motosiklet ve elektrikli bisikletlerin sürülmesi sırasında sürücülerin aşağıdakilerden hangisini kullanması zorunludur?"
+      },
+      {
+        "correctAnswer": "B",
+        "options": [
+          "A) Hızlandırma işareti",
+          "B) Yavaşlatma işareti",
+          "C) Dönüş işareti",
+          "D) Dur işareti"
+        ],
+        "question": "25) Trafik görevlisinin geceleyin ışıklı işaret çubuğunu şekildeki gibi hareket ettirmesinin sürücüler için anlamı nedir?"
+      },
+      {
+        "correctAnswer": "A",
+        "options": [
+          "A) Renk körlüğü",
+          "B) Alkol bağımlılığı",
+          "C) Psikotrop madde bağımlılığı",
+          "D) Günlük hayatı kısıtlayan denge problemi"
+        ],
+        "question": "26) Aşağıdaki sağlık problemlerinden hangisinin motorlu taşıt sürücü adayında bulunması, sürücü belgesi almasına engel değildir?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) Viraja sert girmesi",
+          "B) Takip mesafesini azaltması",
+          "C) Takip mesafesini artırması",
+          "D) Ani fren yaparak durmaya çalışması"
+        ],
+        "question": "27) Buzlanmanın olduğu yolda sürücünün hangisini yapması doğrudur?"
+      },
+      {
+        "correctAnswer": "B",
+        "options": [
+          "A) Yalnız I",
+          "B) I ve II",
+          "C) II ve III",
+          "D) I, II ve III"
+        ],
+        "question": "28) I. Egzoz gazlarının hava kirliliğine neden olması II. Gereksiz yere ya da gereğinden uzun kornaya basılması III. Araçların egzoz borusu ve susturucularında orijinalliğin korunması Verilenlerden hangileri, trafiğin çevre üzerindeki olumsuz etkilerindendir?"
+      },
+      {
+        "correctAnswer": "D",
+        "options": [
+          "A) Yerlerinin değiştirilmesi",
+          "B) Üzerlerine yazı yazılması",
+          "C) Görülmelerinin engellenmesi",
+          "D) Eskiyenlerin yenileriyle değiştirilmesi"
+        ],
+        "question": "29) İşaret levhalarıyla ilgili aşağıdaki davranışlardan hangisi trafiği tehlikeye düşürmez?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) Dur",
+          "B) Hızlan",
+          "C) Yavaşla",
+          "D) Sağa yanaş"
+        ],
+        "question": "30) Şekildeki trafik görevlisinin yapmış olduğu işaretin sürücüler için anlamı nedir?"
+      },
+      {
+        "correctAnswer": "A",
+        "options": [
+          "A) İleri mecburi yön",
+          "B) Girişi olmayan yol",
+          "C) Geçme yasağı sonu",
+          "D) Hız sınırlaması sonu"
+        ],
+        "question": "31) Şekildeki trafik işaretinin anlamı nedir?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) 1 numaralı aracın öncelikle geçmesi",
+          "B) 1 numaralı aracın hızını artırarak kavşağa girmesi",
+          "C) 1 numaralı aracın 2 ve 3 numaralı araçların geçmesini beklemesi",
+          "D) 3 numaralı aracın 2 numaralı aracı ikaz ederek durdurması"
+        ],
+        "question": "32) Şekle göre aşağıdakilerden hangisi doğrudur?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) Yalnız I",
+          "B) I ve II",
+          "C) II ve III",
+          "D) I, II ve III"
+        ],
+        "question": "33) I. Motosikletinde aşınmış lastik kullanması II. Seyir hâlinde iken koruma başlığı ve koruma gözlüğü kullanması III. Motosikletine aldığı yolcuya koruma başlığı takması Yukarıdakilerden hangileri güvenilir motosiklet sürücüsünün özelliklerindendir?"
+      },
+      {
+        "correctAnswer": "B",
+        "options": [
+          "A) 1",
+          "B) 2",
+          "C) 3",
+          "D) 4"
+        ],
+        "question": "34) Otobüs, kamyon, minibüs, kamyonet ve çekicilere bir yaş sonunda ve devamında kaç yılda bir muayene yaptırılması zorunludur?"
+      },
+      {
+        "correctAnswer": "B",
+        "options": [
+          "A) Yolda çalışma olduğunu",
+          "B) Yolda gizli buzlanma olabileceğini",
+          "C) Kaza sebebiyle yolun trafiğe kapatıldığını",
+          "D) Düşük banketli yol kesimine yaklaşıldığını"
+        ],
+        "question": "35) Şekildeki trafik işareti sürücüye neyi bildirir?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) Enjektör",
+          "B) Yakıt borusu",
+          "C) Yakıt filtresi",
+          "D) Yakıt pompası"
+        ],
+        "question": "36) Aşağıdakilerden hangisi yakıt içerisindeki yabancı maddeleri temizleyen elemandır?"
+      },
+      {
+        "correctAnswer": "B",
+        "options": [
+          "A) Far ayarının bozulması",
+          "B) Hava filtresinin kirli olması",
+          "C) Fren balatalarının aşınması",
+          "D) Vantilatör kayışının sıkı olması"
+        ],
+        "question": "37) Aşağıdakilerden hangisi motorda normal yanma olmamasının sebeplerindendir?"
+      },
+      {
+        "correctAnswer": "D",
+        "options": [
+          "A) Marş motorunda",
+          "B) Soğutma fanında",
+          "C) Motor devir göstergesinde",
+          "D) Akü şarj ikaz ışığının ampülünde"
+        ],
+        "question": "38) Aracın kontak anahtarı motoru çalıştırmayacak şekilde açıldığında, gösterge panelinde bulunan şekildeki akü şarj ikaz ışığının yanması gerekir. Yanmıyorsa, arıza aşağıdakilerden hangisinde olabilir?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) Motor uyarı ışığı",
+          "B) Yağ uyarı ışığı",
+          "C) Akü şarj ışığı",
+          "D) El freni ışığı"
+        ],
+        "question": "39) Seyir hâlindeki aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanıyor olması, trafik kurallarına uymak şartıyla derhal durulması gerektiğini belirtir?"
+      },
+      {
+        "correctAnswer": "B",
+        "options": [
+          "A) Su ve yağ soğutmalı",
+          "B) Su ve hava soğutmalı",
+          "C) Yağ ve motorin soğutmalı",
+          "D) Hava ve benzin soğutmalı"
+        ],
+        "question": "40) Motorlar soğutma sistemlerine göre nasıl sınıflandırılır?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) Hava yastığı",
+          "B) Hidrolik fren",
+          "C) Hidrolik direksiyon",
+          "D) Otomatik hız kontrol"
+        ],
+        "question": "41) Direksiyon döndürme kuvvetini azaltarak sürücüye daha kolay bir şekilde aracı yönlendirme imkânı veren sistem aşağıdakilerden hangisidir?"
+      },
+      {
+        "correctAnswer": "D",
+        "options": [
+          "A) Motorun verimli çalışmasına",
+          "B) Aracın daha yavaş gitmesine",
+          "C) Akünün daha çabuk bitmesine",
+          "D) Motordaki aşıntıların artmasına"
+        ],
+        "question": "42) Motor yağının zamanında değiştirilmemesi aşağıdakilerden hangisine neden olur?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) Yağ filtresi",
+          "B) Polen filtresi",
+          "C) Yakıt filtresi",
+          "D) Ekran filtresi"
+        ],
+        "question": "43) Aşağıdakilerden hangisinin periyodik bakımı yapılmadığında yakıt sistemine yeterli miktarda yakıt ulaşmaz?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) Ön ısıtma bujilerinin çalışmakta olduğunu",
+          "B) Fren balatalarının bitmek üzere olduğunu",
+          "C) Motor yağ basıncının çok düşük olduğunu",
+          "D) Fren hidrolik seviyesinin çok düşük olduğunu"
+        ],
+        "question": "44) Sürüş sırasında aracın gösterge panelinde bulunan şekildeki ikaz ışığının yanması sürücüye neyi bildirir?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) I. doğru, II. yanlış",
+          "B) I. yanlış, II. doğru",
+          "C) Her ikisi de doğru",
+          "D) Her ikisi de yanlış"
+        ],
+        "question": "45) Trafik kazası geçiren kişiler:\n\nI. Canlarına bir zarar gelmese bile psikolojik olarak zarar görürler.\nII. Kişilerin bu bozuk psikolojileri ailelerin eve topluma olumsuz yansır.\n\nVerilenler için aşağıdakilerden hangisi söylenebilir?"
+      },
+      {
+        "correctAnswer": "A",
+        "options": [
+          "A) Dikkatin dağılması",
+          "B) Kural ihlallerinin azalması",
+          "C) Direksiyon hâkimiyetinin artması",
+          "D) Kazaya karışma olasılığının azalması"
+        ],
+        "question": "46) Aşağıdakilerden hangisinin trafikte öfke duygusuna kapılan sürücülerde görülme olasılığı diğer sürücülere göre daha fazladır?"
+      },
+      {
+        "correctAnswer": "D",
+        "options": [
+          "A) Kabalık",
+          "B) Hırçınlık",
+          "C) Bencillik",
+          "D) Sorumluluk"
+        ],
+        "question": "47) Sürücülerin trafik içindeki davranışlarının sonuçlarını düşünerek hareket etmesi hâli, trafikte hangi temel değere sahip olunduğunu gösterir?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) Korkutmak veya şaşırtmak",
+          "B) Su, çamur ve benzerlerini sıçratmak",
+          "C) Sola ya da sağa dönüş yapmadan önce sinyal vermek",
+          "D) Sigara külü ve izmaritlerini veya başka şeyleri yola atıp dökmek"
+        ],
+        "question": "48) Sürücünün aracını hareket ettirmesiyle birlikte trafikteki diğer yol kullanıcıları ile iletişimi başlar ve aracını park edinceye kadar da bu iletişim sürer. Buna göre, aşağıdakilerden hangisi trafikte olumlu yönde iletişim kurma becerisine örnektir?"
+      },
+      {
+        "correctAnswer": "A",
+        "options": [
+          "A) Sabır",
+          "B) Öfke",
+          "C) İnatlaşma",
+          "D) Aşırı tepki"
+        ],
+        "question": "49) Yayalara, özellikle de yaşlı, çocuk ve engellilere; yeşil ışık süresinde karşıya geçişi tamamlayamadığından dolayı korna çalma ya da el kol hareketleri ile çabuk geçmeye zorlama hâli, trafikte hangi temel değere sahip olunmadığını gösterir?"
+      },
+      {
+        "correctAnswer": "C",
+        "options": [
+          "A) Bencillik",
+          "B) İnatlaşmak",
+          "C) Diğergamlık",
+          "D) Sorumsuzluk"
+        ],
+        "question": "50) Geçme yapan araca, geçilmekte olan araç sürücüsünün yavaşlayıp kolaylık sağlaması durumu, trafikte hangi temel değerle ifade edilir?"
+      }
+    ],
+    "title": "2024 Aralık"
+  },
+  {
+    "desc": "Ehliyet Sınavı Çıkmış Sorular",
+    "id": "5f7b6b7a8b0b4d001f1f4c8d1",
+    "questions": [
+      {
+        "correctAnswer": "A",
+        "options": [
+          "A) Sözlü ve gürültülü uyaranlara cevap vermesi",
+          "B) Göz bebeklerinin farklı büyüklükte olması",
+          "C) Ağrılı uyaranlara cevap vermesi",
+          "D) Tüm uyaranlara tepkisiz olması"
+        ],
+        "question": "1) https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/14679/uploads/urunresimleri/buyuk/dur-levhasi-tt-2trafik-tanzim-isaretle-fcf596.jpg Bir trafik kazası sonucunda yaralanan kazazedenin durumunun ağırlığını ve ciddiyetini gösteren bulgulardan biride bilinç düzeyidir. Aşağıdakilerden hangisi 1. derece bilinç düzeyini gösteren bir bulgudur?"
+      }
+    ],
+    "title": "2024 Kasım"
+  },
+  {
+    "desc": "Ehliyet Sınavı Çıkmış Sorular",
+    "id": "5f7b6b7a8b0b4d001f1f4c855",
+    "questions": [
+      {
+        "correctAnswer": "A",
+        "options": [
+          "A) Sözlü ve gürültülü uyaranlara cevap vermesi",
+          "B) Göz bebeklerinin farklı büyüklükte olması",
+          "C) Ağrılı uyaranlara cevap vermesi",
+          "D) Tüm uyaranlara tepkisiz olması"
+        ],
+        "question": "1) Bir trafik kazası sonucunda yaralanan kazazedenin durumunun ağırlığını ve ciddiyetini gösteren bulgulardan biride bilinç düzeyidir. Aşağıdakilerden hangisi 1. derece bilinç düzeyini gösteren bir bulgudur?"
+      }
+    ],
+    "title": "2024 Ekim"
+  },
+  {
+    "desc": "Ehliyet Sınavı Çıkmış Sorular",
+    "id": "5f7b6b7a8b0b4d001f121c8d1",
+    "questions": [
+      {
+        "correctAnswer": "A",
+        "options": [
+          "A) Sözlü ve gürültülü uyaranlara cevap vermesi",
+          "B) Göz bebeklerinin farklı büyüklükte olması",
+          "C) Ağrılı uyaranlara cevap vermesi",
+          "D) Tüm uyaranlara tepkisiz olması"
+        ],
+        "question": "1) Bir trafik kazası sonucunda yaralanan kazazedenin durumunun ağırlığını ve ciddiyetini gösteren bulgulardan biride bilinç düzeyidir. Aşağıdakilerden hangisi 1. derece bilinç düzeyini gösteren bir bulgudur?"
+      }
+    ],
+    "title": "2024 Eylül"
+  },
+  {
+    "desc": "Ehliyet Sınavı Çıkmış Sorular",
+    "id": "5f7b647a8b0b4d001f1f4c8d1",
+    "questions": [
+      {
+        "correctAnswer": "A",
+        "options": [
+          "A) Sözlü ve gürültülü uyaranlara cevap vermesi",
+          "B) Göz bebeklerinin farklı büyüklükte olması",
+          "C) Ağrılı uyaranlara cevap vermesi",
+          "D) Tüm uyaranlara tepkisiz olması"
+        ],
+        "question": "1) Bir trafik kazası sonucunda yaralanan kazazedenin durumunun ağırlığını ve ciddiyetini gösteren bulgulardan biride bilinç düzeyidir. Aşağıdakilerden hangisi 1. derece bilinç düzeyini gösteren bir bulgudur?"
+      }
+    ],
+    "title": "2024 Ağustos"
+  },
+  {
+    "desc": "Ehliyet Sınavı Çıkmış Sorular",
+    "id": "5f126b7a8b0b4d001f1f4c8d1",
+    "questions": [
+      {
+        "correctAnswer": "A",
+        "options": [
+          "A) Sözlü ve gürültülü uyaranlara cevap vermesi",
+          "B) Göz bebeklerinin farklı büyüklükte olması",
+          "C) Ağrılı uyaranlara cevap vermesi",
+          "D) Tüm uyaranlara tepkisiz olması"
+        ],
+        "question": "1) Bir trafik kazası sonucunda yaralanan kazazedenin durumunun ağırlığını ve ciddiyetini gösteren bulgulardan biride bilinç düzeyidir. Aşağıdakilerden hangisi 1. derece bilinç düzeyini gösteren bir bulgudur?"
+      }
+    ],
+    "title": "2024 Temmuz"
+  }
+]
