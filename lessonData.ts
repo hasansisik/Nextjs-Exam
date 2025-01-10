@@ -2,47 +2,52 @@ export const  D1K1: string =
 `Trafik İşaretleri ve Levhalar
 
 https://www.direksiyonkursu.com/dosyalar/TRAFIK.gif
+
 1. Tehlike Uyarı İşaretleri
 Şekil: Üçgen, kırmızı kenarlıklı.
 Amaç: Yol üzerindeki tehlikelere dikkat çekmek.
 Örnekler: Viraj, kasis, yaya geçidi, okul geçidi.
 
 https://www.direksiyonkursu.com/dosyalar/trafik3.gif
+
 2. Trafik Tanzim İşaretleri
 Şekil: Daire, genelde kırmızı kenarlıklı.
 Amaç: Kuralları belirtmek.
 Örnekler: Hız sınırı, girilmez, dur, park yasak.
 
 https://i.ytimg.com/vi/lNqYfpnarWk/maxresdefault.jpg
+
 3. Bilgi İşaretleri
 Şekil: Mavi arka planlı.
 Amaç: Bilgi ve yönlendirme.
 Örnekler: Otopark, benzin istasyonu, otobüs durağı.
 
 https://coreservice.tabim.com.tr/publicImages/t_DuraklamaVeParkEtmeIsaretleri_675x430_04cc6e24_0.webp
+
 4. Duraklama ve Park İşaretleri
 Amaç: Duraklama ve park düzeni sağlamak.
 Örnekler: Park yasak, duraklama yasak.
 
 https://www.yediler.com.tr/resimler/318/140220191647535.jpg
+
 5. Yatay İşaretler
 Amaç: Yol yüzeyinde yönlendirme.
 Örnekler: Şerit çizgileri, yaya geçidi, dur çizgisi.
 
 https://teksantrafik.com/wp-content/uploads/2016/07/yapimbakionarim-1.jpg
+
 6. Geçici Trafik İşaretleri
 Şekil: Turuncu.
 Amaç: Yol çalışmaları için geçici düzenlemeler.
 Örnekler: Yol çalışması, geçici hız sınırı.
 
 https://lh3.googleusercontent.com/proxy/_6vqFP-B-WOzs028fZyIGnyTDitc4GJd5SesYtA9YQRLQiXuKGBlV8tUisk0ATRX5lKkW21jFCa-vmsomX8ytgj9_4Mm5btrQgK5VYuvUfg
+
 Renk Kodları
 Kırmızı: Yasak ve tehlike.
 Mavi: Bilgilendirme.
 Sarı: Geçici işaretler.
 Trafik işaretlerini öğrenmek ve kurallara uymak, güvenli sürüş ve sınav başarısı için kritiktir.
-
-
 `;
 
 export const D1K2: string = 

@@ -1,10 +1,16 @@
 'use client';
 import { useState } from 'react';
+import { useRouter } from 'next/navigation';
 import lessonData from '../../lesson.json';
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 
 export default function LessonPage() {
   const [selectedLesson, setSelectedLesson] = useState<number | null>(null);
+  const router = useRouter();
+
+  const handleProductClick = (lessonId: number, productFile: string) => {
+    router.push(`/lesson/${lessonId}?file=${productFile}`);
+  };
 
   return (
     <div className="container mx-auto p-8">
@@ -31,9 +37,13 @@ export default function LessonPage() {
             </Card>
 
             {selectedLesson === lesson.id && (
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pl-8 items-center justify-items-center">
+              <div className="grid grid-col md:grid-cols-2 gap-4 items-center justify-items-center">
                 {lesson.products.map((product) => (
-                  <Card key={product.id} className="w-full max-w-sm">
+                  <Card 
+                    key={product.id} 
+                    className="w-full cursor-pointer hover:shadow-lg transition-all duration-200"
+                    onClick={() => handleProductClick(lesson.id, product.file)}
+                  >
                     <CardHeader className="p-0">
                       <img 
                         src={product.images} 
