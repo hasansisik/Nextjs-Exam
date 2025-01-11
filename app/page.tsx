@@ -1,16 +1,18 @@
 'use client';
 import Link from "next/link";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 export default function Home() {
-  const [showDialog, setShowDialog] = useState(() => {
-    if (typeof window !== 'undefined') {
-      return !localStorage.getItem('passwordVerified');
-    }
-    return true;
-  });
+  const [showDialog, setShowDialog] = useState(true);
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
+
+  useEffect(() => {
+    const verified = localStorage.getItem('passwordVerified');
+    if (verified) {
+      setShowDialog(false);
+    }
+  }, []);
 
   const checkPassword = (e: React.FormEvent) => {
     e.preventDefault();
