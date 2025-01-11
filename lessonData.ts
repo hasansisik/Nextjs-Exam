@@ -5,7 +5,7 @@ export const TVC1: string = `
 
 Trafik, insanların, hayvanların ve araçların karayolunda belirli kurallar çerçevesinde hareket etmesi sürecidir. Trafik, sadece bireylerin ulaşımını değil, aynı zamanda malların ve hizmetlerin taşınmasını da kapsar. Bu nedenle, trafik düzeni toplumsal yaşamın temel taşlarından biridir.
 
-Trafik Sisteminin Unsurları
+**Trafik Sisteminin Unsurları**
 
 **Trafik sistemi;**
 
@@ -45,7 +45,7 @@ https://images.unsplash.com/photo-1726895546262-6acf948975e4?q=80&w=1157&auto=fo
 
 Trafik kuralları, yollarda güvenliği sağlamak ve trafiğin düzenli bir şekilde akmasını temin etmek için belirlenmiş kurallar bütünüdür. Bu kurallar, sürücüler, yayalar ve diğer yol kullanıcılarının hak ve sorumluluklarını belirler.
 
-Trafik Kurallarının Önemi
+**Trafik Kurallarının Önemi**
 
 **Güvenlik:** Kazaların önlenmesi.
 
@@ -63,7 +63,7 @@ Trafik işaretleri, yol kullanıcılarını yönlendiren, uyarılar ve yasaklar 
 
 **Bilgi İşaretleri:** Yol hakkında bilgi verir (örneğin, park yerleri, hastane).
 
-Trafik Levhalarının Anlamları
+**Trafik Levhalarının Anlamları**
 
 **Kırmızı:** Dikkat ve yasaklama.
 
@@ -98,17 +98,17 @@ https://www.egm.gov.tr/Sayfalar/TrafikIsaretleri.aspx#bilgi
 
 Yol kullanıcıları, karayolunu kullanan tüm birey ve araçları kapsar:
 
-Yayalar
+**Yayalar**
 
-Sürücüler
+**Sürücüler**
 
-Bisiklet ve Motosiklet Sürücüleri
+**Bisiklet ve Motosiklet Sürücüleri**
 
-Toplu Taşıma Yolcuları
+**Toplu Taşıma Yolcuları**
 
-Hayvan Çobanları ve Sürü Sahipleri
+**Hayvan Çobanları ve Sürü Sahipleri**
 
-Yol Kullanıcılarının Hakları
+**Yol Kullanıcılarının Hakları**
 
 **Yaya Hakları:**
 
@@ -128,7 +128,7 @@ Engelli bireyler için uygun geçiş düzenlemeleri.
 
 Toplu taşıma yolcularının duraklarda güvenli bekleme hakkı.
 
-Yol Kullanıcılarının Sorumlulukları
+**Yol Kullanıcılarının Sorumlulukları**
 
 **Yayaların Sorumlulukları:**
 
@@ -150,13 +150,13 @@ Kask ve koruyucu ekipman kullanmak.
 
 Şeritte doğru konumda sürmek.
 
-Ortak Kurallar
+**Ortak Kurallar**
 
 Trafikte tüm kullanıcılar güvenlik kurallarına uymak zorundadır.
 
 Herkes kendi ve diğerlerinin güvenliğini sağlamak için dikkatli ve özenli olmalıdır.
 
-Görsel
+**Görsel**
 
 **Yaya ve Araç Etkileşimi:**
 
@@ -177,7 +177,7 @@ https://www.shutterstock.com/search/traffic-rules
 
 Trafik, çevreye birçok yönden etki eder. Araç emisyonları, trafik yoğunluğu ve yanlış sürüş alışkanlıkları çevre kirliliğini artırır. Çevre bilincine sahip bir sürücü, bu olumsuz etkileri en aza indirmek için hareket eder.
 
-Trafikte Çevre Bilinci Neden Önemlidir?
+**Trafikte Çevre Bilinci Neden Önemlidir?**
 
 **Hava Kirliliği:** Araçlardan yayılan karbon emisyonları, küresel ısınmaya katkıda bulunur.
 
@@ -185,7 +185,7 @@ Trafikte Çevre Bilinci Neden Önemlidir?
 
 **Enerji Tüketimi:** Gereksiz yakıt tüketimi çevreye zarar verir ve ekonomik kayıplara neden olur.
 
-Çevre Dostu Trafik Alışkanlıkları
+**Çevre Dostu Trafik Alışkanlıkları**
 
 **Aracınızı İyi Bakımda Tutun:**
 
@@ -193,7 +193,7 @@ Motor ayarlarını düzenli yaptırmak emisyonları azaltır.
 
 Lastik basıncını kontrol etmek yakıt tüketimini optimize eder.
 
-Yakıt Tasarrufu Sağlayan Sürüş Teknikleri:
+**Yakıt Tasarrufu Sağlayan Sürüş Teknikleri:**
 
 Ani hızlanma ve frenlemelerden kaçının.
 
@@ -205,7 +205,7 @@ Toplu taşıma kullanımı teşvik edilmelidir.
 
 Bisiklet ve yaya yollarını tercih edin.
 
-Trafikte Çevre Koruma İçin Teknolojik Çözümler
+**Trafikte Çevre Koruma İçin Teknolojik Çözümler**
 
 **Elektrikli Araçlar:** Fosil yakıt kullanımını azaltır.
 
@@ -213,7 +213,7 @@ Trafikte Çevre Koruma İçin Teknolojik Çözümler
 
 **Yeşil Alanlar ve Gürültü Bariyerleri:** Trafik kaynaklı çevre etkilerini azaltır.
 
-Görsel 
+**Görsel**
 
 **Hava Kirliliği ve Araç Emisyonları:**
 
@@ -229,45 +229,45 @@ https://unsplash.com/s/photos/public-transport
 `;
 
 export const AT1: string = `
-2.1. Araçların Temel Mekanik Yapısı
+**2.1. Araçların Temel Mekanik Yapısı**
 
 Araçların Temel Bileşenleri
 
 Araçların temel mekanik yapısı, sürüş güvenliği ve performansını doğrudan etkileyen çeşitli bileşenlerden oluşur. Bu bileşenler bir arada çalışarak aracın doğru şekilde hareket etmesini sağlar. Araçların temel mekanik yapısı şu ana bölümlerden oluşur:
 
-Motor Sistemi
+**Motor Sistemi**
 
 Motor: Araçların kalbi olarak tanımlanır, içten yanmalı motorlar en yaygın olanlardır. Motor, yakıtı enerjiye dönüştürerek aracı harekete geçirir.
 
 Şanzıman (Vites Kutusu): Motorun ürettiği gücü tekerleklere ileten sistemdir. Farklı hız ve tork değerlerine göre vites değişimi sağlar.
 
-Şasi ve Süspansiyon Sistemi
+**Şasi ve Süspansiyon Sistemi**
 
 Şasi: Aracın iskeletidir, motor, şanzıman, tekerlekler ve diğer bileşenler üzerine montelenir.
 
 Süspansiyon Sistemi: Yolun düzensizliklerini dengeleyerek sürüş konforunu sağlar ve tekerleklerin yola sürekli temas etmesini sağlar.
 
-Fren Sistemi
+**Fren Sistemi**
 
 Disk ve Kampana Frenler: Sürücünün aracını durdurmasını sağlar. Disk frenler genellikle daha yaygın kullanılır ve daha etkili frenleme sağlar.
 
 ABS (Anti-lock Braking System): Frenleme sırasında tekerleklerin kilitlenmesini önler ve sürücünün kontrolünü artırır.
 
-Direksiyon Sistemi
+**Direksiyon Sistemi**
 
 Direksiyon: Aracın yönünü belirleyen sistemdir. Mekanik ya da elektrikli olabilir. Direksiyon kutusu, aracın ön tekerleklerine hareket göndererek yön değiştirir.
 
-Elektrik Sistemi
+**Elektrik Sistemi**
 
 Akü: Aracın elektrikli bileşenlerini çalıştırır. Motor çalışırken akü şarj edilir.
 
 Alternatör: Motor çalışırken aküyü şarj eder ve elektrikli sistemlere güç sağlar.
 
-Araçların Çalışma Prensibi
+**Araçların Çalışma Prensibi**
 
 Araçlar, motor gücü, şanzıman, fren ve direksiyon sistemlerinin uyumlu çalışması ile hareket eder. Motor yakıtı enerjiye dönüştürür, bu enerji şanzıman aracılığıyla tekerleklere iletilir. Süspansiyon, yolun her türlü engebesini dengeleyerek sürüşü rahatlatır, frenler ise aracın hızını kontrol eder.
 
-Temel Bakım ve Onarım
+**Temel Bakım ve Onarım**
 
 Yağ Değişimi: Motorun sağlıklı çalışabilmesi için düzenli olarak motor yağı değiştirilmeli.
 
@@ -275,7 +275,7 @@ Fren Kontrolleri: Fren sisteminin düzenli bakımı, güvenli sürüş için ön
 
 Lastik Kontrolü: Lastiklerin hava basıncı ve aşınma durumu sürüş güvenliğini etkiler.
 
-Görsel Link Önerileri
+**Görsel Link Önerileri**
 
 Motor ve Şanzıman Sistemi:https://unsplash.com/s/photos/car-engine
 
@@ -289,15 +289,13 @@ Elektrik Sistemi (Akü ve Alternatör):https://unsplash.com/s/photos/car-battery
 
 
 
-İşte 2.2. Motor ve Aktarma Organları başlığı için detaylı yazı ve uygun görsel linkleri:
+**2.2. Motor ve Aktarma Organları**
 
-2.2. Motor ve Aktarma Organları
-
-Motor Sistemi
+**Motor Sistemi**
 
 Motor, bir aracın kalbidir ve aracın hareket etmesini sağlayan enerji kaynağıdır. Genellikle içten yanmalı motorlar kullanılır, ancak elektrikli araçlarda elektrik motorları da yaygındır. Motor, yakıtı (benzin, dizel, LPG) yakarak enerji üretir ve bu enerjiyi mekanik enerjiye dönüştürür.
 
-Motor Türleri:
+**Motor Türleri:**
 
 Benzinli Motorlar: Yüksek devirde çalışabilen ve daha fazla güç üreten motorlardır.
 
@@ -305,7 +303,9 @@ Dizel Motorlar: Daha az yakıt tüketir ve genellikle daha yüksek tork üretir.
 
 Elektrik Motorları: Aküden aldığı enerji ile çalışır, sıfır emisyon ile çevre dostudur.
 
-Motorun Çalışma PrensibiMotor, dört ana süreçten oluşan bir çevrimle çalışır:
+**Motorun Çalışma Prensibi**
+
+Motor, dört ana süreçten oluşan bir çevrimle çalışır:
 
 Emme: Hava ve yakıt karışımı silindirlere çekilir.
 
@@ -315,11 +315,13 @@ Sıkıştırma: Karışım sıkıştırılır, böylece daha verimli bir yanma s
 
 Egzoz: Yanma sonucu oluşan gazlar egzozdan dışarı atılır.
 
-Aktarma Organları
+**Aktarma Organları**
 
 Aktarma organları, motorun ürettiği gücü tekerleklere ileten sistemlerdir. Motorun güç üretmesi tek başına yeterli değildir; bu güç, aktarma organları sayesinde aracın hareket etmesini sağlar.
 
-Şanzıman (Vites Kutusu)Şanzıman, motorun ürettiği gücü araç tekerleklerine ileten bir sistemdir. Motorun güç ve tork üretim kapasitesine göre hız değişimini sağlar.
+**Şanzıman (Vites Kutusu)**
+
+Şanzıman, motorun ürettiği gücü araç tekerleklerine ileten bir sistemdir. Motorun güç ve tork üretim kapasitesine göre hız değişimini sağlar.
 
 Manuel Şanzıman: Sürücü, vitesleri kendisi değiştirir.
 
@@ -327,15 +329,19 @@ Otomatik Şanzıman: Vites değişimini otomatik olarak yapar.
 
 CVT (Sürekli Değişken Şanzıman): Vites oranları sürekli olarak değişir, bu da motorun daha verimli çalışmasını sağlar.
 
-Debriyaj SistemiDebriyaj, şanzımanla motor arasındaki güç iletimini keser veya tekrar sağlar. Sürücü, debriyaj pedalını kullanarak vites değiştirebilir.
+**Debriyaj Sistemi**
+
+Debriyaj, şanzımanla motor arasındaki güç iletimini keser veya tekrar sağlar. Sürücü, debriyaj pedalını kullanarak vites değiştirebilir.
 
 Kuru Debriyaj: Hava ile soğutulur ve en yaygın kullanılan debriyaj türüdür.
 
 Yağlı Debriyaj: Yağ ile soğutulur ve yüksek performanslı araçlarda kullanılır.
 
-DiferansiyelDiferansiyel, motorun torkunu ön ve arka tekerleklere iletmek için gerekli olan bir dişli sistemidir. Aynı zamanda, araç dönerken dıştaki ve içteki tekerleklerin farklı hızlarda dönmesini sağlar.
+**Diferansiyel**
 
-Motor ve Aktarma Organlarının Bakımı
+Diferansiyel, motorun torkunu ön ve arka tekerleklere iletmek için gerekli olan bir dişli sistemidir. Aynı zamanda, araç dönerken dıştaki ve içteki tekerleklerin farklı hızlarda dönmesini sağlar.
+
+**Motor ve Aktarma Organlarının Bakımı**
 
 Yağ Değişimi: Motorun sağlıklı çalışabilmesi için düzenli yağ değişimi gereklidir.
 
@@ -343,7 +349,7 @@ Vites Sistemi Bakımı: Şanzımanın doğru çalışabilmesi için periyodik ba
 
 Debriyaj Kontrolleri: Debriyajın düzgün çalışması, vites geçişlerinin sorunsuz olmasını sağlar.
 
-Görsel Link Önerileri
+**Görsel Link Önerileri**
 
 Benzinli ve Dizel Motorlar:https://unsplash.com/s/photos/car-engine
 
@@ -357,19 +363,19 @@ Diferansiyel:https://unsplash.com/s/photos/differential-gear
 
 
 
-2.3. Fren ve Direksiyon Sistemleri
+**2.3. Fren ve Direksiyon Sistemleri**
 
-Fren Sistemi
+**Fren Sistemi**
 
 Fren sistemi, araçların hızını azaltmak ve durmasını sağlamak için kritik bir öneme sahiptir. Aracın güvenliğini sağlayan en önemli sistemlerden biridir. İyi bir fren sistemi, aracın tüm koşullarda doğru ve etkili bir şekilde durmasını sağlar.
 
-Fren Türleri
+**Fren Türleri**
 
 Disk Frenler: Disk frenler, fren balatalarının bir disk üzerine baskı yaparak aracın hızını düşürmesini sağlar. Disk frenler, daha etkili frenleme sağlar ve genellikle modern araçlarda kullanılır.
 
 Kampana Frenler: Bu tür frenler, bir kampana (kupa) şeklindeki bir parçanın üzerine fren balatalarının baskı yapmasıyla çalışır. Kampana frenler, genellikle daha eski araçlarda bulunur.
 
-Frenleme Sistemi Elemanları
+**Frenleme Sistemi Elemanları**
 
 Fren Pedalı: Sürücünün fren sistemini devreye soktuğu ana elemandır.
 
@@ -379,7 +385,7 @@ Fren Balataları: Frenleme sırasında sürtünme yaratan ve aracın hızını a
 
 ABS (Anti-lock Braking System): Frenleme sırasında tekerleklerin kilitlenmesini engelleyen bir sistemdir. ABS, kaygan zeminlerde sürücünün aracın kontrolünü kaybetmesini önler.
 
-Fren Sistemi Bakımı
+**Fren Sistemi Bakımı**
 
 Fren Balatalarının Değişimi: Balataların aşınması, fren performansını azaltabilir, bu nedenle düzenli olarak kontrol edilmelidir.
 
@@ -387,11 +393,11 @@ Fren Hidroliği: Fren hidroliği, fren sisteminin verimli çalışabilmesi için
 
 Fren Testi: Frenler her kullanımda test edilmelidir, özellikle araç uzun süre kullanılmadığında.
 
-Direksiyon Sistemi
+**Direksiyon Sistemi**
 
 Direksiyon sistemi, aracın yönünü kontrol etmek için kullanılan bir mekanizmadır. Direksiyon sistemi, yol koşullarına göre araç tekerleklerinin dönmesini sağlayarak sürücünün aracı yönlendirmesine yardımcı olur.
 
-Direksiyon Türleri
+**Direksiyon Türleri**
 
 Mekanik Direksiyon: Bu tip direksiyon sisteminde, sürücünün direksiyon simidini çevirmesiyle mekanik bağlantılar aracılığıyla ön tekerleklere hareket iletilir.
 
@@ -399,7 +405,7 @@ Hidrolik Direksiyon: Hidrolik sıvı kullanarak direksiyon simidinin çevrilmesi
 
 Elektrikli Direksiyon: Elektrikli direksiyon, elektronik motorlar kullanarak direksiyon simidinin hareket etmesini sağlar. Bu sistem, özellikle küçük araçlarda daha verimlidir.
 
-Direksiyon Elemanları
+**Direksiyon Elemanları**
 
 Direksiyon Simidi: Sürücünün yönlendirdiği araç parçasıdır.
 
@@ -407,7 +413,7 @@ Direksiyon Kutusu: Direksiyon simidinden gelen hareketi tekerleklere ileten meka
 
 Rulmanlar ve Dişliler: Direksiyon sisteminin düzgün çalışabilmesi için bu parçalar önemlidir.
 
-Direksiyon Sistemi Bakımı
+**Direksiyon Sistemi Bakımı**
 
 Direksiyon Yağı Kontrolü: Hidrolik direksiyon sistemlerinde sıvı seviyesi düzenli olarak kontrol edilmelidir.
 
@@ -415,7 +421,7 @@ Direksiyon Sistemi Bağlantılarının Kontrolü: Direksiyon sistemi bağlantıl
 
 Direksiyon Simidi Durumu: Direksiyon simidi, aracın düzgün çalışabilmesi için düzenli olarak test edilmelidir.
 
-Görsel Link Önerileri
+**Görsel Link Önerileri**
 
 Fren Sistemi ve Disk Frenler:https://unsplash.com/s/photos/car-brake-system
 
@@ -429,13 +435,13 @@ Elektrikli Direksiyon:https://unsplash.com/s/photos/electric-steering-system
 
 
 
-2.4. Araç Bakımı ve Onarımı
+**2.4. Araç Bakımı ve Onarımı**
 
 Araç bakımı ve onarımı, aracın ömrünü uzatmak ve güvenli bir şekilde çalışmasını sağlamak için çok önemlidir. Periyodik bakım, motorun, frenlerin, süspansiyon sisteminin ve diğer önemli bileşenlerin düzgün çalışmasını garanti eder. Bakım yapılmadığında, aracın performansı düşer ve arızalar artar.
 
-Araç Bakımının Temel Unsurları
+**Araç Bakımının Temel Unsurları**
 
-Motor Yağı ve Filtre Değişimi
+**Motor Yağı ve Filtre Değişimi**
 
 Motor Yağı: Motorun iç bileşenlerini yağlar ve sürtünmeyi azaltır. Yağ değişimi, motorun verimli çalışabilmesi için düzenli aralıklarla yapılmalıdır.
 
@@ -443,7 +449,7 @@ Yağ Filtresi: Motor yağının temiz kalmasını sağlayan filtrelerdir. Yağ f
 
 Yağ Değişim Aralıkları: Motor yağı değişim aralıkları, aracın modeline ve kullanım şartlarına göre değişebilir, ancak genellikle her 5.000-10.000 km’de bir değişim yapılması önerilir.
 
-Fren Sistemi Bakımı
+**Fren Sistemi Bakımı**
 
 Fren Balataları: Fren balataları, aracın durmasını sağlayan önemli parçalardır. Aşındıkça frenleme performansını azaltabilir, bu nedenle düzenli olarak kontrol edilmelidir.
 
@@ -451,7 +457,7 @@ Fren Sıvısı: Fren sistemi içinde bulunan sıvı, sistemin verimli çalışab
 
 Fren Testi: Frenler her kullanımda test edilmeli, özellikle uzun süre kullanılmadığında performansı kontrol edilmelidir.
 
-Lastik Bakımı ve Değişimi
+**Lastik Bakımı ve Değişimi**
 
 Lastik Basıncı: Lastiklerin doğru hava basıncına sahip olması, yakıt verimliliğini artırır ve lastik ömrünü uzatır.
 
@@ -459,41 +465,41 @@ Lastik Aşınması: Lastikler düzenli olarak kontrol edilmeli ve aşınmış ve
 
 Rot-Balans Ayarı: Lastiklerin düzgün aşınabilmesi için rot ve balans ayarları yapılmalıdır.
 
-Süspansiyon ve Direksiyon Sistemi Bakımı
+**Süspansiyon ve Direksiyon Sistemi Bakımı**
 
 Süspansiyon: Süspansiyon sistemi, yolun düzensizliklerini dengeleyerek sürüş konforunu sağlar. Düzenli bakım, sistemin düzgün çalışmasını sağlar.
 
 Direksiyon Sistemi: Direksiyon sistemi, aracın yönünü kontrol eder. Hidrolik direksiyon sistemlerinde yağ seviyeleri kontrol edilmelidir.
 
-Akü Bakımı
+**Akü Bakımı**
 
 Akü Durumu: Akü, aracın elektrikli sistemlerini çalıştıran önemli bir bileşendir. Akü seviyeleri kontrol edilmeli ve akünün ömrü bitmeden değiştirilmelidir.
 
 Şarj Sistemi: Alternatör, aküyü şarj eder. Alternatörün doğru çalışıp çalışmadığı düzenli olarak test edilmelidir.
 
-Hava Filtresi ve Egzoz Sistemi Bakımı
+**Hava Filtresi ve Egzoz Sistemi Bakımı**
 
 Hava Filtresi: Motorun içine temiz hava almasını sağlar. Kirli hava filtresi motorun verimli çalışmasını engeller, bu nedenle periyodik olarak değiştirilmelidir.
 
 Egzoz Sistemi: Egzoz sistemi, aracın zararlı gazları dışarı atmasını sağlar. Egzoz sisteminin tıkalı veya hasar görmüş olması motorun performansını düşürebilir.
 
-Araç Onarımı
+**Araç Onarımı**
 
 Araçlar zamanla arızalar verebilir. Bu arızalar genellikle düzenli bakım yapılmadığında ortaya çıkar. Onarım işlemleri, aracın çeşitli bileşenlerinin tamir edilmesini veya değiştirilmesini içerir.
 
-Motor Onarımı
+**Motor Onarımı**
 
 Motor arızaları, genellikle aşırı ısınma, yağ sızıntıları veya piston problemi gibi durumlarla meydana gelir. Motorun tamir edilmesi, profesyonel mekanik yardım gerektirir.
 
-Fren Sistemi Onarımı
+**Fren Sistemi Onarımı**
 
 Fren sisteminin çalışmaması, güvenli bir sürüş için ciddi bir tehdit oluşturur. Fren balatalarının değiştirilmesi, fren disklerinin aşınması ve fren sıvısının yeniden eklenmesi gerekebilir.
 
-Elektrik Sistemi Onarımı
+**Elektrik Sistemi Onarımı**
 
 Elektrik sistemindeki arızalar, farlar, klima, cam silecekleri ve diğer elektrikli bileşenlerin düzgün çalışmamasına neden olabilir. Akü, alternatör veya elektriksel bağlantıların kontrol edilmesi gerekebilir.
 
-Görsel Link Önerileri
+**Görsel Link Önerileri**
 
 Motor Yağı ve Filtre Değişimi:https://unsplash.com/s/photos/oil-change
 
@@ -510,33 +516,39 @@ Egzoz Sistemi Bakımı:https://unsplash.com/s/photos/exhaust-system-repair
 `;
 
 export const IYB1: string = `
-3.1. İlk Yardımın Önemi ve Temel İlkeleri
+**3.1. İlk Yardımın Önemi ve Temel İlkeleri**
 
-İlk Yardım Nedir?
+**İlk Yardım Nedir?**
 
 İlk yardım, bir kazanın, hastalığın veya acil bir sağlık sorununun başlangıcında, olay yerinde olayın büyümeden kontrol altına alınması için yapılan, uzmanlık gerektirmeyen ancak hayat kurtarıcı müdahalelerdir. Sağlık profesyonelleri gelene kadar hastayı veya yaralıyı stabilize etmek amacıyla yapılan müdahalelerdir. İlk yardım, hem bireyler hem de toplum için büyük önem taşır, çünkü doğru bir ilk yardım müdahalesi hayat kurtarabilir.
 
-İlk Yardımın Önemi
+**İlk Yardımın Önemi**
 
-Hayat Kurtarıcıdır: Doğru bir ilk yardım müdahalesi, kaza ya da hastalık sonucu hayat kaybını önleyebilir. Örneğin, kalp krizi veya boğulma gibi durumlarda zamanında müdahale, hayati sonuçları değiştirebilir.
+**Hayat Kurtarıcıdır:** Doğru bir ilk yardım müdahalesi, kaza ya da hastalık sonucu hayat kaybını önleyebilir. Örneğin, kalp krizi veya boğulma gibi durumlarda zamanında müdahale, hayati sonuçları değiştirebilir.
 
-Yaralıya veya Hasta Kişiye Moral Verir: İlk yardım, kazazede veya hasta kişiye güven verir ve onlara sağlıklı bir ortam yaratmaya yardımcı olur. Ayrıca, doğru bir müdahale, iyileşme sürecini hızlandırabilir.
+**Yaralıya veya Hasta Kişiye Moral Verir:** İlk yardım, kazazede veya hasta kişiye güven verir ve onlara sağlıklı bir ortam yaratmaya yardımcı olur. Ayrıca, doğru bir müdahale, iyileşme sürecini hızlandırabilir.
 
-Acil Durumlarda Profesyonel Yardım Beklenirken Kritik Süreyi Yönetir: Acil sağlık hizmetleri bazen ulaşmakta zorlanabilir. Bu durumlarda, ilk yardım hayat kurtarıcı rol oynar ve profesyonel sağlık yardımı gelene kadar durumu stabilize eder.
+**Acil Durumlarda Profesyonel Yardım Beklenirken Kritik Süreyi Yönetir:** Acil sağlık hizmetleri bazen ulaşmakta zorlanabilir. Bu durumlarda, ilk yardım hayat kurtarıcı rol oynar ve profesyonel sağlık yardımı gelene kadar durumu stabilize eder.
 
-Toplum Sağlığına Katkı Sağlar: Acil durumlarla başa çıkma yeteneği, toplumların genel sağlığını artırır. Bir kişinin doğru ilk yardım müdahalesi yapması, daha büyük bir sağlık sorununun önüne geçebilir.
+**Toplum Sağlığına Katkı Sağlar:** Acil durumlarla başa çıkma yeteneği, toplumların genel sağlığını artırır. Bir kişinin doğru ilk yardım müdahalesi yapması, daha büyük bir sağlık sorununun önüne geçebilir.
 
-İlk Yardımın Temel İlkeleri
+**İlk Yardımın Temel İlkeleri**
 
 İlk yardım uygularken dikkat edilmesi gereken bazı temel ilkeler vardır. Bu ilkeler, doğru ve etkili müdahaleler yapmayı sağlar. İşte ilk yardımın temel ilkeleri:
 
-Sakin Olmakİlk yardım uygularken sakin kalmak çok önemlidir. Panik, durumu daha da zorlaştırabilir. Sakin olmak, hem yaralı kişiye güven verir hem de doğru müdahaleyi yapabilmenizi sağlar.
+**Sakin Olmak**
 
-Durumu DeğerlendirmekOlay yerindeki durumu hızlıca değerlendirin. Tehlikeli bir durum varsa, kendinizi ve başkalarını koruyun. Trafik kazası gibi durumlarda, hareketli araçlardan uzak durarak güvenli bir alanda müdahalede bulunun.
+İlk yardım uygularken sakin kalmak çok önemlidir. Panik, durumu daha da zorlaştırabilir. Sakin olmak, hem yaralı kişiye güven verir hem de doğru müdahaleyi yapabilmenizi sağlar.
 
-Yardım Çağırmakİlk yardım uygulamasının en önemli adımlarından biri, profesyonel sağlık hizmetlerinden yardım istemektir. Sağlık görevlileri gelene kadar yaralı kişiye müdahale etmek çok önemlidir. Yardım çağırırken net ve doğru bilgi vermek gerekir.
+**Durumu Değerlendirmek**
 
-ABC Kuralına Uygun Hareket Etmek
+Olay yerindeki durumu hızlıca değerlendirin. Tehlikeli bir durum varsa, kendinizi ve başkalarını koruyun. Trafik kazası gibi durumlarda, hareketli araçlardan uzak durarak güvenli bir alanda müdahalede bulunun.
+
+**Yardım Çağırmak**
+
+İlk yardım uygulamasının en önemli adımlarından biri, profesyonel sağlık hizmetlerinden yardım istemektir. Sağlık görevlileri gelene kadar yaralı kişiye müdahale etmek çok önemlidir. Yardım çağırırken net ve doğru bilgi vermek gerekir.
+
+**ABC Kuralına Uygun Hareket Etmek**
 
 A: Hava Yolu Açma: Hasta veya yaralı kişinin hava yolunun açık olduğundan emin olun.
 
@@ -544,19 +556,25 @@ B: Nefes Kontrolü: Kişinin nefes alıp almadığını kontrol edin. Eğer nefe
 
 C: Dolaşım Kontrolü: Kanama olup olmadığını kontrol edin. Eğer kanama varsa, kanamayı durdurmak için basınç uygulayın.
 
-Yaralı Kişiyi RahatlatmakYaralı kişinin rahatlamasına yardımcı olun. Yaralı kişi, mümkünse sırt üstü uzanmalıdır. Gereksiz hareketlerden kaçının ve bölgedeki ağrılı bölgeleri koruyun.
+**Yaralı Kişiyi Rahatlatmak**
 
-Temizlik ve Hijyenİlk yardım uygularken kullanılan malzemelerin temiz olması gerekir. Yaralı kişiye doğrudan temastan önce elinizi yıkayın veya eldiven kullanın. Hijyen, enfeksiyon riskini azaltır.
+Yaralı kişinin rahatlamasına yardımcı olun. Yaralı kişi, mümkünse sırt üstü uzanmalıdır. Gereksiz hareketlerden kaçının ve bölgedeki ağrılı bölgeleri koruyun.
 
-Zamanında Müdahaleİlk yardım, zamanla yarışır. Doğru zamanda yapılan müdahaleler, kişiyi hayatta tutabilir. Bu yüzden olaya hızlıca müdahale etmek ve profesyonel yardım gelene kadar müdahaleyi sürdürmek önemlidir.
+**Temizlik ve Hijyen**
 
-İlk Yardımda Kullanılan Temel Ekipmanlar
+İlk yardım uygularken kullanılan malzemelerin temiz olması gerekir. Yaralı kişiye doğrudan temastan önce elinizi yıkayın veya eldiven kullanın. Hijyen, enfeksiyon riskini azaltır.
+
+**Zamanında Müdahale**
+
+İlk yardım, zamanla yarışır. Doğru zamanda yapılan müdahaleler, kişiyi hayatta tutabilir. Bu yüzden olaya hızlıca müdahale etmek ve profesyonel yardım gelene kadar müdahaleyi sürdürmek önemlidir.
+
+**İlk Yardımda Kullanılan Temel Ekipmanlar**
 
 İlk Yardım Çantası: Temel sağlık malzemelerini içeren bir çanta, her zaman araçta veya evde bulunmalıdır. Çantada yara bandı, antiseptik, gazlı bez, eldiven ve ilaçlar yer almalıdır.
 
 Ağrı Kesici ve Antiseptik: Yaraları temizlemek ve enfeksiyonları engellemek için antiseptik solüsyonlar kullanılabilir. Ayrıca, ağrı kesici ilaçlar da yaralı kişinin rahatlamasına yardımcı olabilir.
 
-Görsel Link Önerileri
+**Görsel Link Önerileri**
 
 İlk Yardım Temel Uygulamalar:https://unsplash.com/s/photos/first-aid
 
@@ -572,17 +590,19 @@ Temel İlk Yardım Eğitimi:https://unsplash.com/s/photos/first-aid-training
 
 
 
-3.2. Yaralanmalarda İlk Yardım
+**3.2. Yaralanmalarda İlk Yardım**
+
+**Yaralanma Türleri ve İlk Yardım Uygulamaları**
 
 Yaralanmalar, evde, iş yerinde, trafikte veya günlük yaşamın herhangi bir anında karşılaşılabilecek durumlardır. Doğru bir ilk yardım müdahalesi, yaralanmanın boyutunu kontrol altına alabilir ve iyileşme sürecini hızlandırabilir. Yaralanmalarda ilk yardım uygulamaları, yaralanmanın türüne göre değişiklik gösterir.
 
-Yaralanma Türleri ve İlk Yardım Uygulamaları
+**Yaralanma Türleri ve İlk Yardım Uygulamaları**
 
-Kesikler ve Yaralar
+**Kesikler ve Yaralar**
 
 Belirtiler: Kanama, ağrı, yara çevresinde şişlik ve enfeksiyon riski.
 
-İlk Yardım:
+**İlk Yardım:**
 
 Kanamayı durdurmak için temiz bir bez veya gazlı bez ile baskı uygulayın.
 
@@ -592,11 +612,11 @@ Antiseptik bir solüsyon ile temizledikten sonra yara bandı veya steril bir ban
 
 Kanama durmuyorsa tıbbi yardım çağırın.
 
-Yanıklar
+**Yanıklar**
 
 Belirtiler: Ciltte kızarıklık, kabarcıklar veya derin dokuların hasarı.
 
-İlk Yardım:
+**İlk Yardım:**
 
 Yanık bölgesini 10-15 dakika boyunca soğuk su altında tutarak serinletin.
 
@@ -606,11 +626,11 @@ Kabarcık oluşmuşsa patlatmayın.
 
 Ciddi yanıklarda acil tıbbi yardım alın.
 
-Kanamalar
+**Kanamalar**
 
 Belirtiler: Açık yara sonucu dış kanama veya iç organ hasarı nedeniyle iç kanama.
 
-İlk Yardım (Dış Kanama):
+**İlk Yardım (Dış Kanama):**
 
 Temiz bir bezle kanamayı baskı altına alın.
 
@@ -618,17 +638,17 @@ Yaralı bölgeyi kalp seviyesinin üzerine kaldırın.
 
 Turnike uygulamasını yalnızca hayati tehlike durumunda ve profesyonel yardım gelene kadar kullanın.
 
-İlk Yardım (İç Kanama):
+**İlk Yardım (İç Kanama):**
 
 Yaralıyı hareketsiz tutun ve acilen tıbbi yardım çağırın.
 
 Yaralı kişiyi mümkünse sırt üstü yatırarak rahat bir pozisyon almasını sağlayın.
 
-Kırıklar ve Çıkıklar
+**Kırıklar ve Çıkıklar**
 
 Belirtiler: Şişlik, morarma, deformasyon, şiddetli ağrı ve hareket kısıtlılığı.
 
-İlk Yardım:
+**İlk Yardım:**
 
 Yaralı bölgeyi hareket ettirmeyin.
 
@@ -636,11 +656,11 @@ Bölgeyi sabitlemek için bir atel veya sert bir cisim kullanın.
 
 Yaralının üzerini örtün ve profesyonel yardım çağırın.
 
-Burkulmalar ve Zorlanmalar
+**Burkulmalar ve Zorlanmalar**
 
 Belirtiler: Şişlik, ağrı, morarma ve hareket kısıtlılığı.
 
-İlk Yardım:
+**İlk Yardım:**
 
 Yaralı bölgeyi hareket ettirmeyin ve istirahate alın.
 
@@ -648,7 +668,7 @@ Bölgeyi yükseğe kaldırarak şişliği azaltın.
 
 Soğuk kompres uygulayın.
 
-İlk Yardımın Genel İlkeleri
+**İlk Yardımın Genel İlkeleri**
 
 Yaralı bölgeye dokunmadan önce ellerinizi yıkayın veya eldiven kullanın.
 
@@ -656,7 +676,7 @@ Eğer yaralı kişi bilincini kaybederse, temel yaşam desteği uygulamalarına 
 
 Yaralıyı gereksiz yere hareket ettirmeyin, özellikle omurga yaralanmasından şüpheleniyorsanız.
 
-Görsel Link Önerileri
+**Görsel Link Önerileri**
 
 Kesiklerde İlk Yardım:https://unsplash.com/s/photos/wound-first-aid
 
@@ -674,17 +694,21 @@ Burkulmalarda İlk Yardım:https://unsplash.com/s/photos/sprain-care
 
 
 
-3.3. Kaza Anında Yapılması Gerekenler
+**3.3. Kaza Anında Yapılması Gerekenler**
 
 Trafik kazaları beklenmedik durumlar olup, doğru müdahaleler hem hayat kurtarabilir hem de daha büyük sorunların önüne geçebilir. Kaza anında yapılması gerekenler, olayın boyutuna, yaralıların durumuna ve çevresel koşullara bağlı olarak değişiklik gösterir. Ancak aşağıdaki genel adımlar, kaza anında etkin ve güvenli bir şekilde hareket etmenize yardımcı olabilir.
 
-Kaza Anında İlk Adımlar
+**Kaza Anında İlk Adımlar**
 
-Sakin Kalın ve Panik YapmayınOlay yerinde sakin bir şekilde hareket etmek çok önemlidir. Panik, hem sizin hem de çevredeki kişilerin daha fazla hata yapmasına neden olabilir.
+**Sakin Kalın ve Panik Yapmayın**
 
-Kendi Güvenliğinizi SağlayınOlay yerine yaklaşmadan önce, kendi güvenliğinizden emin olun. Trafiği kontrol edin ve olay yerini değerlendirirken kendinizi tehlikeye atmayın.
+Olay yerinde sakin bir şekilde hareket etmek çok önemlidir. Panik, hem sizin hem de çevredeki kişilerin daha fazla hata yapmasına neden olabilir.
 
-Trafik Güvenliğini Sağlayın
+**Kendi Güvenliğinizi Sağlayın**
+
+Olay yerine yaklaşmadan önce, kendi güvenliğinizden emin olun. Trafiği kontrol edin ve olay yerini değerlendirirken kendinizi tehlikeye atmayın.
+
+**Trafik Güvenliğini Sağlayın**
 
 Aracınızın dörtlü flaşörlerini açın.
 
@@ -692,23 +716,25 @@ Olay yerinin 50-100 metre uzağına reflektör veya uyarı levhaları yerleştir
 
 Trafiği yönlendirmek için gerekiyorsa çevredeki kişilerin yardımını alın.
 
-Yaralıların Durumunu Kontrol Edin
+**Yaralıların Durumunu Kontrol Edin**
 
 Yaralıların bilincini kontrol edin ve nefes alıp almadıklarını değerlendirin.
 
 Bilinci açık olan yaralılara sakinleştirici ve destekleyici konuşmalar yapın.
 
-Acil Yardım Çağırın
+**Acil Yardım Çağırın**
 
 Olay yerini 112 Acil Servis’e bildirin.
 
 Net bilgiler verin: Kaza yeri, yaralı sayısı, olayın niteliği ve özel bir durum olup olmadığı (örneğin, araçta yangın tehlikesi).
 
-Kaza Anında Yaralılara Müdahale
+**Kaza Anında Yaralılara Müdahale**
 
-Hareket EttirmeyinYaralıları, omurga veya iç yaralanma ihtimaline karşı mümkünse hareket ettirmeyin. Ancak, yangın veya başka bir hayati tehlike varsa dikkatli bir şekilde güvenli bir yere taşıyın.
+**Hareket Ettirmeyin**
 
-Temel İlk Yardım Uygulayın
+Yaralıları, omurga veya iç yaralanma ihtimaline karşı mümkünse hareket ettirmeyin. Ancak, yangın veya başka bir hayati tehlike varsa dikkatli bir şekilde güvenli bir yere taşıyın.
+
+**Temel İlk Yardım Uygulayın**
 
 Kanaması olan yaralılara temiz bir bezle basınç uygulayarak kanamayı durdurmaya çalışın.
 
@@ -716,15 +742,17 @@ Bilinci kapalı ancak nefes alan kişileri yan yatış pozisyonuna alın.
 
 Nefes almayan kişilere temel yaşam desteği (suni solunum ve kalp masajı) uygulayın.
 
-Şok Durumunu ÖnleyinYaralıları sıcak tutun ve üzerlerine bir battaniye örtün. Su, yiyecek veya ilaç vermekten kaçının.
+**Şok Durumunu Önleyin**
 
-Çevredeki Tehlikeleri Kontrol Edin
+Yaralıları sıcak tutun ve üzerlerine bir battaniye örtün. Su, yiyecek veya ilaç vermekten kaçının.
+
+**Çevredeki Tehlikeleri Kontrol Edin**
 
 Yangın tehlikesi varsa, araçların motorunu kapatın.
 
 Yakıt sızıntısını kontrol edin ve mümkünse olay yerinde sigara içilmesini önleyin.
 
-Kaza Yerinde Uyulması Gereken Diğer Kurallar
+**Kaza Yerinde Uyulması Gereken Diğer Kurallar**
 
 Kazaya karışan araçları mümkünse yoldan çekin ve yolun trafiğe açılmasını sağlayın.
 
@@ -732,7 +760,7 @@ Kazaya karışan diğer sürücülerle tartışmaktan kaçının ve olayın çö
 
 Polis veya jandarma gelene kadar olay yerinden ayrılmayın.
 
-Görsel Link Önerileri
+**Görsel Link Önerileri**
 
 Kaza Anında Güvenlik Önlemleri:https://unsplash.com/s/photos/traffic-accident-safety
 
@@ -748,13 +776,13 @@ Acil Yardım Çağırma:https://unsplash.com/s/photos/emergency-call
 
 
 
-3.4. Acil Durumlarda Müdahale Teknikleri
+**3.4. Acil Durumlarda Müdahale Teknikleri**
 
 Acil durumlar, trafik kazaları, doğal afetler, ani sağlık sorunları veya çevresel tehditler gibi hayati risk taşıyan durumları içerir. Bu tür durumlarda doğru müdahale, hayat kurtarabilir ve zararları en aza indirebilir. Acil durumlarda müdahale ederken sakin, planlı ve hızlı hareket etmek önemlidir.
 
-Acil Durum Türleri ve Müdahale Teknikleri
+**Acil Durum Türleri ve Müdahale Teknikleri**
 
-Trafik Kazası Sonrası Müdahale
+**Trafik Kazası Sonrası Müdahale**
 
 Yaralıların Durumunu Değerlendirin: Bilinç durumu, nefes alma, nabız gibi hayati belirtileri kontrol edin.
 
@@ -762,7 +790,7 @@ Temel İlk Yardım Uygulayın: Kanama varsa durdurun, bilinci kapalı ancak nefe
 
 Araç Güvenliği: Araçta yangın riski varsa motoru kapatın, yangın söndürücü kullanın.
 
-Yangın Durumunda Müdahale
+**Yangın Durumunda Müdahale**
 
 Kendi Güvenliğinizi Sağlayın: Öncelikle kendi can güvenliğinizi sağlayarak, güvenli bir alana geçin.
 
@@ -770,7 +798,7 @@ Yangın Söndürme: Küçük yangınlarda yangın söndürücü kullanın. Büy�
 
 Tahliye: Yangın yerindeki kişileri güvenli bir şekilde tahliye edin. Asansör yerine merdiven kullanın.
 
-Doğal Afet Durumunda Müdahale (Deprem, Sel, Fırtına)
+**Doğal Afet Durumunda Müdahale (Deprem, Sel, Fırtına)**
 
 Deprem: Çömelip başınızı koruyun, sağlam bir masa veya eşya altına sığının. Elektrik ve gaz hatlarını kapatın.
 
@@ -778,11 +806,11 @@ Sel: Yüksek yerlere çıkın, elektrikli cihazlardan uzak durun. Akıntılı su
 
 Fırtına: Açık alanlardan uzaklaşın, sığınacak güvenli bir yer bulun.
 
-Kalp Krizi Durumu
+**Kalp Krizi Durumu**
 
 Belirtiler: Göğüs ağrısı, nefes darlığı, terleme, bulantı.
 
-Müdahale:
+**Müdahale:**
 
 Hastayı oturtarak sakinleştirin.
 
@@ -790,11 +818,11 @@ Ambulansı arayın (112).
 
 Eğer varsa ve kişi bilinçliyse dil altı ilacı veya aspirin verebilirsiniz.
 
-Boğulma Durumu
+**Boğulma Durumu**
 
 Belirtiler: Solunum durması, ciltte morarma, bilincin kapanması.
 
-Müdahale:
+**Müdahale:**
 
 Boğulan kişiyi sudan çıkarın ve hava yolunu açın.
 
@@ -802,11 +830,11 @@ Solunum yoksa suni solunum yapın.
 
 Profesyonel yardım çağırın.
 
-Elektrik Çarpması
+**Elektrik Çarpması**
 
 Belirtiler: Yanık izleri, bilinç kaybı, kas spazmları.
 
-Müdahale:
+**Müdahale:**
 
 Elektrik kaynağını kapatın.
 
@@ -814,7 +842,7 @@ Yaralıyı dokunmadan önce izole malzemelerle elektrikten ayırın.
 
 Bilinci kontrol edin, gerekirse suni solunum ve kalp masajı uygulayın.
 
-Acil Durumlarda Genel Müdahale İlkeleri
+**Acil Durumlarda Genel Müdahale İlkeleri**
 
 Sakin Olun: Panik yapmak durumu kötüleştirebilir. Olayı değerlendirmek için birkaç saniyenizi ayırın.
 
@@ -824,7 +852,7 @@ Kendi Güvenliğinizi Ön Planda Tutun: Tehlikeli bir ortamdaysanız önce kendi
 
 Yardımcı Olacak Çevredekilerden Destek Alın: Etrafınızdaki insanlara görevler dağıtarak organize olun.
 
-Görsel Link Önerileri
+**Görsel Link Önerileri**
 
 Trafik Kazasında Müdahale:https://unsplash.com/s/photos/car-accident-rescue
 
@@ -841,43 +869,61 @@ Elektrik Çarpmasında Müdahale:https://unsplash.com/s/photos/electrical-safety
 `;
 
 export const TA1: string = `
-4.1. Trafikte Saygı ve Hoşgörü
+**4.1. Trafikte Saygı ve Hoşgörü**
 
 Trafik, bireylerin farklı araçlarla aynı yolları paylaştığı dinamik bir ortamdır. Bu ortamın güvenli, düzenli ve herkes için konforlu olabilmesi için sürücülerin, yayaların ve tüm yol kullanıcılarının saygı ve hoşgörü çerçevesinde hareket etmesi gerekir. Trafikte saygı ve hoşgörü, yalnızca kurallara uyulmasını değil, aynı zamanda başkalarının haklarının ve güvenliğinin gözetilmesini de içerir.
 
-Trafikte Saygı ve Hoşgörünün Önemi
+**Trafikte Saygı ve Hoşgörünün Önemi**
 
-Kaza Riskini AzaltırSabırsızlık, agresif davranışlar ve dikkatsizlik kazaların en büyük nedenlerindendir. Saygılı ve hoşgörülü olmak, bu riskleri önemli ölçüde azaltır.
+**Kaza Riskini Azaltır**
 
-Trafik Akışını KolaylaştırırŞerit değiştirme, kavşaklarda geçiş hakkı veya dar yollarda yol verme gibi durumlarda hoşgörülü davranmak, trafik akışının düzenli ve hızlı olmasını sağlar.
+Sabırsızlık, agresif davranışlar ve dikkatsizlik kazaların en büyük nedenlerindendir. Saygılı ve hoşgörülü olmak, bu riskleri önemli ölçüde azaltır.
 
-Stresi AzaltırTrafikteki agresif davranışlar, hem sürücülerde hem de çevredeki yol kullanıcılarında stres yaratır. Saygılı bir trafik ortamı, herkes için daha rahat bir sürüş deneyimi sunar.
+**Trafik Akışını Kolaylaştırır**
 
-Toplumsal Bilinç ve Güvenlik Kültürünü GeliştirirTrafikte saygılı olmak, bireylerin sosyal sorumluluklarını yerine getirdiği ve başkalarına değer verdiği anlamına gelir. Bu da toplumsal güvenin ve bilincin artmasına katkı sağlar.
+Şerit değiştirme, kavşaklarda geçiş hakkı veya dar yollarda yol verme gibi durumlarda hoşgörülü davranmak, trafik akışının düzenli ve hızlı olmasını sağlar.
 
-Trafikte Saygı ve Hoşgörünün Temel İlkeleri
+**Stresi Azaltır**
 
-Geçiş Hakkına Saygı GösterinYaya geçitlerinde, kavşaklarda ve dar yollarda diğer yol kullanıcılarının geçiş hakkını gözetin.
+Trafikteki agresif davranışlar, hem sürücülerde hem de çevredeki yol kullanıcılarında stres yaratır. Saygılı bir trafik ortamı, herkes için daha rahat bir sürüş deneyimi sunar.
 
-Hız Limitlerine UyunHız sınırına uyarak hem kendi güvenliğinizi hem de diğer yol kullanıcılarının güvenliğini sağlayabilirsiniz.
+**Toplumsal Bilinç ve Güvenlik Kültürünü Geliştirir**
 
-Şerit Kullanımına Dikkat EdinGereksiz şerit değişikliklerinden kaçının ve diğer araçlara geçiş için yeterli alan bırakın.
+Trafikte saygılı olmak, bireylerin sosyal sorumluluklarını yerine getirdiği ve başkalarına değer verdiği anlamına gelir. Bu da toplumsal güvenin ve bilincin artmasına katkı sağlar.
 
-Tehlikeli Davranışlardan KaçınınAni fren yapma, sinyal vermeden dönüş yapma veya trafikte agresif hareketler sergilemekten kaçının.
+**Trafikte Saygı ve Hoşgörünün Temel İlkeleri**
 
-Yayalara ve Diğer Araçlara Karşı Nazik OlunYayaların geçişine izin vermek, bisiklet sürücülerine güvenli mesafe bırakmak ve acil durum araçlarına yol vermek saygılı davranışlardır.
+**Geçiş Hakkına Saygı Gösterin**
 
-Trafikte Hoşgörülü Olmanın Pratik Yolları
+Yaya geçitlerinde, kavşaklarda ve dar yollarda diğer yol kullanıcılarının geçiş hakkını gözetin.
 
-Sabırlı Olun: Trafik sıkışıklığında veya yol çalışması gibi beklenmedik durumlarda sabırlı olun.
+**Hız Limitlerine Uyun**
 
-Empati Kurun: Diğer sürücülerin veya yayaların da sizinle aynı koşullarda olduğunu unutmayın.
+Hız sınırına uyarak hem kendi güvenliğinizi hem de diğer yol kullanıcılarının güvenliğini sağlayabilirsiniz.
 
-İletişim Kurun: El hareketleri veya kısa bir korna ile diğer sürücülere niyetinizi ifade edebilirsiniz.
+**Şerit Kullanımına Dikkat Edin**
 
-Sakin Kalın: Trafikte meydana gelen olumsuz durumlara aşırı tepki vermekten kaçının.
+Gereksiz şerit değişikliklerinden kaçının ve diğer araçlara geçiş için yeterli alan bırakın.
 
-Görsel Link Önerileri
+**Tehlikeli Davranışlardan Kaçının**
+
+Ani fren yapma, sinyal vermeden dönüş yapma veya trafikte agresif hareketler sergilemekten kaçının.
+
+**Yayalara ve Diğer Araçlara Karşı Nazik Olun**
+
+Yayaların geçişine izin vermek, bisiklet sürücülerine güvenli mesafe bırakmak ve acil durum araçlarına yol vermek saygılı davranışlardır.
+
+**Trafikte Hoşgörülü Olmanın Pratik Yolları**
+
+**Sabırlı Olun:** Trafik sıkışıklığında veya yol çalışması gibi beklenmedik durumlarda sabırlı olun.
+
+**Empati Kurun:** Diğer sürücülerin veya yayaların da sizinle aynı koşullarda olduğunu unutmayın.
+
+**İletişim Kurun:** El hareketleri veya kısa bir korna ile diğer sürücülere niyetinizi ifade edebilirsiniz.
+
+**Sakin Kalın:** Trafikte meydana gelen olumsuz durumlara aşırı tepki vermekten kaçının.
+
+**Görsel Link Önerileri**
 
 Trafikte Saygı ve Hoşgörü:https://unsplash.com/s/photos/polite-driver
 
@@ -889,81 +935,87 @@ Acil Durum Araçlarına Yol Vermek:https://unsplash.com/s/photos/ambulance-road
 
 Şerit Kullanımı:https://unsplash.com/s/photos/lane-discipline
 
-4.2. Sürücü ve Yayaların Etik Davranışları
+**4.2. Sürücü ve Yayaların Etik Davranışları**
 
 Trafikte sürücüler ve yayalar arasındaki etkileşim, düzenli bir trafik akışının sağlanmasında ve herkesin güvenli bir şekilde yol alabilmesinde kritik bir öneme sahiptir. Etik davranışlar, sadece kurallara uyum değil, aynı zamanda insan haklarına ve güvenliğine duyulan saygıyı ifade eder. Bu bölümde, sürücü ve yayaların trafikte sergilemesi gereken etik davranışlar ele alınacaktır.
 
-Sürücülerin Etik Davranışları
+**Sürücülerin Etik Davranışları**
 
-Geçiş Hakkına Saygı
+**Geçiş Hakkına Saygı**
 
 Yaya geçitlerinde yayalara öncelik tanıyın.
 
 Kavşaklarda ve tali yollardan ana yollara çıkışlarda geçiş hakkına uygun hareket edin.
 
-Trafik Kurallarına Uyum
+**Trafik Kurallarına Uyum**
 
 Hız limitlerine uyun, kırmızı ışıkta durun ve sinyalizasyon sistemine riayet edin.
 
 Park yerlerini doğru kullanın, engelli bireylerin özel alanlarına saygı gösterin.
 
-Acil Durum Araçlarına Yol Verme
+**Acil Durum Araçlarına Yol Verme**
 
 Ambulans, itfaiye ve polis araçlarına her koşulda yol açarak etik bir davranış sergileyin.
 
-Trafikte Sabırlı Olma
+**Trafikte Sabırlı Olma**
 
 Trafikte sıkışıklık sırasında sabırlı olun ve agresif sürüşten kaçının.
 
 Şerit değiştirme veya yol verme durumlarında nazik olun.
 
-Doğaya Saygı
+**Doğaya Saygı**
 
 Aracınızı çalışır durumda bekletmeyerek hava kirliliğini azaltın.
 
 Trafikte gürültü kirliliği oluşturmaktan kaçının.
 
-Yayaların Etik Davranışları
+**Yayaların Etik Davranışları**
 
-Geçiş Kurallarına Uyum
+**Geçiş Kurallarına Uyum**
 
 Yaya geçitlerini kullanın ve trafik ışıklarına uyun.
 
 Araçların önüne aniden çıkmaktan kaçının ve trafikte düzeni bozmayın.
 
-Kaldırım ve Yürüyüş Alanlarını Kullanma
+**Kaldırım ve Yürüyüş Alanlarını Kullanma**
 
 Yaya yollarında yürüyerek araç trafiğine engel olmayın.
 
 Kaldırım üzerinde bisiklet veya scooter kullanmaktan kaçının.
 
-Sürücülere Saygı
+**Sürücülere Saygı**
 
 Yaya önceliğiniz olsa dahi, geçiş sırasında sürücüyle göz teması kurarak güvenliğinizi sağlayın.
 
 Trafikte sürücüleri provoke edici davranışlardan kaçının.
 
-Diğer Yayalarla Empati
+**Diğer Yayalarla Empati**
 
 Yavaş yürüyen, yaşlı veya engelli bireylere saygı gösterin.
 
 Kalabalık alanlarda ani duruş ve hareketlerden kaçının.
 
-Çevreye Duyarlılık
+**Çevreye Duyarlılık**
 
 Yol kenarlarına çöp atmaktan kaçının.
 
 Kamusal alanları temiz tutarak çevreye duyarlılık gösterin.
 
-Trafikte Etik Davranışların Önemi
+**Trafikte Etik Davranışların Önemi**
 
-Güvenliği SağlarEtik davranışlar, kazaların önlenmesine ve daha güvenli bir trafik ortamı oluşmasına yardımcı olur.
+**Güvenliği Sağlar**
 
-Toplumun Trafik Kültürünü GeliştirirTrafikte karşılıklı anlayış ve saygı, bireylerin birbirine güven duymasını ve daha bilinçli bir toplum oluşturulmasını sağlar.
+Etik davranışlar, kazaların önlenmesine ve daha güvenli bir trafik ortamı oluşmasına yardımcı olur.
 
-Trafik Akışını KolaylaştırırEtik davranışlar, gereksiz duraklamaları ve çatışmaları azaltarak trafik akışının düzenlenmesine katkıda bulunur.
+**Toplumun Trafik Kültürünü Geliştirir**
 
-Görsel Link Önerileri
+Trafikte karşılıklı anlayış ve saygı, bireylerin birbirine güven duymasını ve daha bilinçli bir toplum oluşturulmasını sağlar.
+
+**Trafik Akışını Kolaylaştırır**
+
+Etik davranışlar, gereksiz duraklamaları ve çatışmaları azaltarak trafik akışının düzenlenmesine katkıda bulunur.
+
+**Görsel Link Önerileri**
 
 Yaya Geçitlerinde Saygı:https://unsplash.com/s/photos/pedestrian-crossing
 
@@ -979,11 +1031,11 @@ Yayaların Güvenli Geçişi:https://unsplash.com/s/photos/pedestrian-safety
 
 
 
-4.3. Trafik Kültürü ve Toplum İlişkisi
+**4.3. Trafik Kültürü ve Toplum İlişkisi**
 
 Trafik, sadece bireysel davranışlarla sınırlı olmayan, toplumsal değerleri ve alışkanlıkları da yansıtan bir alan olarak karşımıza çıkar. Trafik kültürü, bir toplumun kurallara uyma alışkanlıkları, karşılıklı saygı düzeyi ve ortak yaşam bilinciyle şekillenir. Trafik kültürünün gelişimi, toplumun genel kültürel seviyesini ve refahını doğrudan etkiler.
 
-Trafik Kültürü Nedir?
+**Trafik Kültürü Nedir?**
 
 Trafik kültürü, trafikte bulunan bireylerin (sürücüler, yayalar, bisiklet kullanıcıları vb.) sergilediği davranış kalıplarının, yazılı ve yazısız kurallara uygunluğunu ifade eder. Trafik kültürü, şu unsurları kapsar:
 
@@ -993,49 +1045,63 @@ Saygı ve hoşgörü çerçevesinde hareket etme
 
 Karşılıklı hakların ve sorumlulukların bilincinde olma
 
-Trafik Kültürü ve Toplum Arasındaki Bağlantı
+**Trafik Kültürü ve Toplum Arasındaki Bağlantı**
 
-Toplumun Değerlerini YansıtırTrafikteki davranışlar, bir toplumun genel değer yargılarını ve disiplin seviyesini yansıtır. Örneğin, kurallara uyan ve saygılı bir trafik düzeni, güçlü bir toplumsal ahlakın göstergesidir.
+**Toplumun Değerlerini Yansıtır**
 
-Toplum Refahını EtkilerGelişmiş bir trafik kültürü, kazaların azalmasına ve trafikte geçirilen sürenin kısalmasına katkı sağlar. Bu da ekonomik ve sosyal refahı doğrudan etkiler.
+Trafikteki davranışlar, bir toplumun genel değer yargılarını ve disiplin seviyesini yansıtır. Örneğin, kurallara uyan ve saygılı bir trafik düzeni, güçlü bir toplumsal ahlakın göstergesidir.
 
-Eğitim ve Bilinç Seviyesi ile İlişkilidirTrafik kültürü, bireylerin eğitim seviyesi ve bilinç düzeyiyle paralellik gösterir. Trafik eğitiminin küçük yaşlarda başlaması, daha bilinçli bir toplum oluşmasına olanak tanır.
+**Toplum Refahını Etkiler**
 
-Gelişmiş Trafik Kültürünün Toplumsal Faydaları
+Gelişmiş bir trafik kültürü, kazaların azalmasına ve trafikte geçirilen sürenin kısalmasına katkı sağlar. Bu da ekonomik ve sosyal refahı doğrudan etkiler.
 
-Kazaların AzalmasıTrafik kurallarına uyma alışkanlığının artması, kazaların büyük ölçüde azalmasını sağlar.
+**Eğitim ve Bilinç Seviyesi ile İlişkilidir**
 
-Ekonomik KazançTrafikte geçen sürenin azalması ve kazaların önlenmesi, hem birey hem de devlet ekonomisine katkıda bulunur.
+Trafik kültürü, bireylerin eğitim seviyesi ve bilinç düzeyiyle paralellik gösterir. Trafik eğitiminin küçük yaşlarda başlaması, daha bilinçli bir toplum oluşmasına olanak tanır.
 
-Toplumda Güven OrtamıTrafikte saygılı ve hoşgörülü davranışların yaygınlaşması, bireyler arasında güven ortamını geliştirir.
+**Gelişmiş Trafik Kültürünün Toplumsal Faydaları**
 
-Çevresel KorumaGelişmiş bir trafik kültürü, çevreye duyarlı davranışları da kapsar. Gürültü ve hava kirliliğinin azaltılması, trafik kültürünün önemli bir parçasıdır.
+**Kazaların Azalması**
 
-Trafik Kültürü Nasıl Geliştirilir?
+Trafik kurallarına uyma alışkanlığının artması, kazaların büyük ölçüde azalmasını sağlar.
 
-Eğitim ve Farkındalık Kampanyaları
+**Ekonomik Kazanç**
+
+Trafikte geçen sürenin azalması ve kazaların önlenmesi, hem birey hem de devlet ekonomisine katkıda bulunur.
+
+**Toplumda Güven Ortamı**
+
+Trafikte saygılı ve hoşgörülü davranışların yaygınlaşması, bireyler arasında güven ortamını geliştirir.
+
+**Çevresel Koruma**
+
+Gelişmiş bir trafik kültürü, çevreye duyarlı davranışları da kapsar. Gürültü ve hava kirliliğinin azaltılması, trafik kültürünün önemli bir parçasıdır.
+
+**Trafik Kültürü Nasıl Geliştirilir?**
+
+**Eğitim ve Farkındalık Kampanyaları**
 
 Okullarda trafik eğitiminin zorunlu hale getirilmesi
 
 Bilinçlendirme kampanyalarıyla topluma ulaşılması
 
-Yasal Düzenlemeler ve Denetimler
+**Yasal Düzenlemeler ve Denetimler**
 
 Trafik kurallarına uyulmaması durumunda caydırıcı cezaların uygulanması
 
 Trafikte denetimlerin sıkılaştırılması
 
-Rol Model Olma
+**Rol Model Olma**
 
 Ebeveynlerin, öğretmenlerin ve kamu figürlerinin trafikte örnek davranışlar sergilemesi
 
-Toplumun Katılımı
+**Toplumun Katılımı**
 
 Sivil toplum kuruluşlarının trafik güvenliği ve eğitimi konularında aktif rol alması
 
 Toplumun trafikteki sorunlara çözüm önerileri geliştirmesi
 
-Görsel Link Önerileri
+**Görsel Link Önerileri**
 
 Gelişmiş Trafik Kültürü:https://unsplash.com/photos/traffic-culture
 
@@ -1049,89 +1115,95 @@ Trafik ve Çevre İlişkisi:https://unsplash.com/photos/traffic-environment
 
 
 
-4.4. Trafikte İletişim ve Empati
+**4.4. Trafikte İletişim ve Empati**
 
 Trafikte iletişim ve empati, sürücüler, yayalar ve diğer yol kullanıcıları arasındaki ilişkiyi düzenleyen önemli sosyal becerilerdir. İyi bir trafik düzeni ve güvenli bir ortam yaratmak, sadece kurallara uymakla değil, aynı zamanda empati ve etkili iletişim becerileriyle mümkündür.
 
-Trafikte İletişimin Önemi
+**Trafikte İletişimin Önemi**
 
 Trafik iletişimi, diğer yol kullanıcılarının davranışlarını anlamak ve güvenli bir şekilde etkileşim kurmak için kullanılan sinyal, jest ve sözlü olmayan davranışlardan oluşur. Etkili bir trafik iletişimi şu nedenlerle önemlidir:
 
-Kazaların ÖnlenmesiDoğru sinyal kullanımı ve niyetlerin açıkça belirtilmesi, kazaların önüne geçer.
+**Kazaların Önlenmesi**
 
-Trafik Akışının DüzenlenmesiJestler ve işaretlerle anlaşma sağlanması, trafik akışının daha düzenli hale gelmesine yardımcı olur.
+Doğru sinyal kullanımı ve niyetlerin açıkça belirtilmesi, kazaların önüne geçer.
 
-Karşılıklı Anlayışın GüçlenmesiTrafikte doğru iletişim, sürücüler ve yayalar arasında güven ve saygı oluşturur.
+**Trafik Akışının Düzenlenmesi**
 
-Empatinin Trafikteki Rolü
+Jestler ve işaretlerle anlaşma sağlanması, trafik akışının daha düzenli hale gelmesine yardımcı olur.
+
+**Karşılıklı Anlayışın Güçlenmesi**
+
+Trafikte doğru iletişim, sürücüler ve yayalar arasında güven ve saygı oluşturur.
+
+**Empatinin Trafikteki Rolü**
 
 Empati, trafikte diğer yol kullanıcılarının ihtiyaçlarını ve durumlarını anlamayı sağlar. Empatik bir yaklaşım, sadece güvenli bir sürüş için değil, aynı zamanda sosyal sorumluluk bilincinin artması için de önemlidir.
 
-Sürüş Davranışlarında Empati
+**Sürüş Davranışlarında Empati**
 
 Hızlı bir araç kullanan kişinin acil bir durumda olabileceğini düşünerek sakin kalın.
 
 Trafikte hata yapan bir sürücüyü hoşgörüyle karşılayın ve agresif davranışlardan kaçının.
 
-Yayalara Karşı Empati
+**Yayalara Karşı Empati**
 
 Yaşlılar, çocuklar ve engelli bireyler için yaya geçitlerinde sabırlı olun.
 
 Kalabalık alanlarda yayalara yol vererek güvenli bir ortam sağlayın.
 
-Acil Durumlarda Empati
+**Acil Durumlarda Empati**
 
 Ambulans ve itfaiye araçlarına yol açarken onların taşıdığı hayat kurtarıcı sorumluluğu göz önünde bulundurun.
 
 Trafikte karşılaştığınız bir kazada, yardım edebilecek bir pozisyondaysanız sorumluluk alın.
 
-Trafikte İletişim ve Empati Teknikleri
+**Trafikte İletişim ve Empati Teknikleri**
 
-Görsel İletişim
+**Görsel İletişim**
 
 Dönüş sinyallerini doğru ve zamanında kullanın.
 
 Tehlike anlarında dörtlü flaşörleri açarak çevrenizi bilgilendirin.
 
-Jest ve Mimiklerle Anlaşma
+**Jest ve Mimiklerle Anlaşma**
 
 Trafik sıkışıklığında göz teması kurarak diğer sürücülerle anlaşın.
 
 Yol verirken el hareketleriyle niyetinizi açıkça ifade edin.
 
-Nazik Davranışlar
+**Nazik Davranışlar**
 
 Yolda geçiş üstünlüğü talep eden araçlara yol verin.
 
 Hata yaptığınızda özür dileyerek, hoşgörülü bir ortam sağlayın.
 
-Stres Yönetimi
+**Stres Yönetimi**
 
 Trafik yoğunluğunda sakin kalmaya çalışın ve diğer sürücüleri provoke etmeyin.
 
 Korna kullanımını gereksiz yere abartmayarak çevrenizdeki insanları rahatsız etmeyin.
 
-Trafikte İletişim ve Empatiyi Geliştirmenin Yolları
+**Trafikte İletişim ve Empatiyi Geliştirmenin Yolları**
 
-Trafik Eğitimi
+**Trafik Eğitimi**
 
 Empati ve iletişim becerileri trafik eğitiminin bir parçası haline getirilmelidir.
 
 Sürücü kurslarında, iletişim tekniklerine dair uygulamalı dersler verilmelidir.
 
-Farkındalık Kampanyaları
+**Farkındalık Kampanyaları**
 
 Empatiyi teşvik eden afişler ve videolar topluma sunulmalıdır.
 
 Medyada, trafikte saygı ve anlayışın önemini vurgulayan içerikler paylaşılmalıdır.
 
-Rol Model Olma
+**Rol Model Olma**
 
 Aile içinde, ebeveynlerin trafikteki örnek davranışları çocuklara empatiyi öğretir.
 
 Toplumdaki lider figürlerin iletişim ve empatiye önem veren davranışları teşvik edici rol oynar.
 
-Görsel Link Önerileri
+**Görsel Link Önerileri**
 
 Trafikte İletişim İşaretleri:https://unsplash.com/photos/traffic-signals
 
