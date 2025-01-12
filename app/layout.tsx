@@ -40,6 +40,7 @@ export default function RootLayout({
             <nav className="hidden md:flex gap-6 ml-8">
               <Link href="/exam" onClick={handleMenuClick} className="hover:text-purple-600">Sınavlar</Link>
               <Link href="/lesson" onClick={handleMenuClick} className="hover:text-purple-600">Dersler</Link>
+              <Link href="/query" onClick={handleMenuClick} className="hover:text-purple-600">Levhalar</Link>
             </nav>
 
             {/* Mobile Menu Button */}
@@ -60,6 +61,7 @@ export default function RootLayout({
             <nav className="flex flex-col py-4 px-8">
               <Link href="/exam" onClick={handleMenuClick} className="py-2 hover:text-purple-600">Sınavlar</Link>
               <Link href="/lesson" onClick={handleMenuClick} className="py-2 hover:text-purple-600">Dersler</Link>
+              <Link href="/query" onClick={handleMenuClick} className="py-2 hover:text-purple-600">Levhalar</Link>
             </nav>
           </div>
         )}

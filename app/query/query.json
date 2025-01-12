@@ -1,14 +1,270 @@
 [
-  {
-    "image": "https://ehliyet.io/img/tanzim/1.jpg",
-    "text": "Yol Ver"
-  },
-  {
-    "image": "https://ehliyet.io/img/tanzim/2.jpg",
-    "text": "Dur"
-  },
-  {
-    "image": "https://ehliyet.io/img/tanzim/3.jpg",
-    "text": "Devam."
-  }
-]
+    {
+      "image": "https://ehliyet.io/img/tanzim/1.jpg",
+      "text": "Yol Ver"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/2.jpg",
+      "text": "Dur"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/3.jpg",
+      "text": "Karşıdan Gelene Yol Ver"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/4.jpg",
+      "text": "Girişi Olmayan Yol"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/5.jpg",
+      "text": "Taşıt Trafiğine Kapalı Yol"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/6.jpg",
+      "text": "Motorlu Taşıt Giremez"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/7.jpg",
+      "text": "Motosiklet Giremez"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/8.jpg",
+      "text": "Bisiklet Giremez"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/9.jpg",
+      "text": "Kamyon Giremez"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/10.jpg",
+      "text": "Otobüs Giremez"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/11.jpg",
+      "text": "Traktör Giremez"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/12.jpg",
+      "text": "Hayvan Çekmeli Araç Giremez"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/13.jpg",
+      "text": "El Arabası Giremez"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/14.jpg",
+      "text": "At Arabası Giremez"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/15.jpg",
+      "text": "Yaya Giremez"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/16.jpg",
+      "text": "Atlı Giremez"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/17.jpg",
+      "text": "El Arabası Giremez"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/18.jpg",
+      "text": "Motorlu Taşıt Trafiğine Kapalı Yol"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/19.jpg",
+      "text": "Motosiklet ve Motorlu Bisiklet Giremez"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/20.jpg",
+      "text": "Bisiklet ve Motorlu Bisiklet Giremez"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/21.jpg",
+      "text": "Tır Giremez"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/22.jpg",
+      "text": "Kamyonet Giremez"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/23.jpg",
+      "text": "Zorunlu Yaya Geçidi"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/24.jpg",
+      "text": "Azami Hız Sınırı"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/25.jpg",
+      "text": "Minimum Hız Sınırı"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/26.jpg",
+      "text": "Hız Kontrolü"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/27.jpg",
+      "text": "Tekerlekli Sandalye Giremez"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/28.jpg",
+      "text": "Patlayıcı Madde Taşıyan Araç Giremez"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/29.jpg",
+      "text": "Park Yasak"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/30.jpg",
+      "text": "Duraklama Yasak"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/31.jpg",
+      "text": "Sesli İkaz Yasak"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/32.jpg",
+      "text": "Sol Şerit Yasak"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/33.jpg",
+      "text": "Sağ Şerit Yasak"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/34.jpg",
+      "text": "Dönüş Yasak"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/35.jpg",
+      "text": "Geri Dönüş Yasak"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/36.jpg",
+      "text": "Geçiş Önceliği Ver"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/37.jpg",
+      "text": "Kırmızı Işıkta Dur"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/38.jpg",
+      "text": "Tek Yön"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/39.jpg",
+      "text": "İki Yönlü Trafik"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/40.jpg",
+      "text": "Demiryolu Geçidi"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/41.jpg",
+      "text": "Yaya Geçidi"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/42.jpg",
+      "text": "Okul Geçidi"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/43.jpg",
+      "text": "Tehlikeli Dönemeç"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/44.jpg",
+      "text": "Tünel Girişi"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/45.jpg",
+      "text": "Kasisli Yol"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/46.jpg",
+      "text": "Dikkat"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/47.jpg",
+      "text": "Kaygan Yol"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/48.jpg",
+      "text": "Köprü"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/49.jpg",
+      "text": "Sağa Dön"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/50.jpg",
+      "text": "Sola Dön"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/51.jpg",
+      "text": "İleri Git"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/52.jpg",
+      "text": "Sağa Devam"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/53.jpg",
+      "text": "Sola Devam"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/54.jpg",
+      "text": "İleri ve Sağa"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/55.jpg",
+      "text": "İleri ve Sola"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/56.jpg",
+      "text": "Yavaşla"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/57.jpg",
+      "text": "Durmadan Geç"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/58.jpg",
+      "text": "Hız Kontrol Noktası"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/59.jpg",
+      "text": "Hız Azalt"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/60.jpg",
+      "text": "Yükseklik Sınırı"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/61.jpg",
+      "text": "Genişlik Sınırı"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/62.jpg",
+      "text": "Ağırlık Sınırı"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/63.jpg",
+      "text": "Tırmanma Şeridi"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/64.jpg",
+      "text": "Tehlikeli Madde"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/65.jpg",
+      "text": "Yaklaşan Kavşak"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/66.jpg",
+      "text": "Kilit Kavşak"
+    },
+    {
+      "image": "https://ehliyet.io/img/tanzim/67.jpg",
+      "text": "Trafik Işığı"
+    }
+  ]

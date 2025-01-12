@@ -1,51 +1,58 @@
 'use client';
 
+import * as React from 'react';
 import { useState } from 'react';
-import { ArrowLeft, ArrowRight, Eye, EyeOff } from 'lucide-react';
+import { Eye, EyeOff } from 'lucide-react';
 import questions from './query.json';
+import { Card, CardContent } from '@/components/ui/card';
+import {
+  Carousel,
+  CarouselContent,
+  CarouselItem,
+  CarouselNext,
+  CarouselPrevious,
+} from '@/components/ui/carousel';
 
 export default function QueryPage() {
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [showAnswer, setShowAnswer] = useState(false);
-
-  const handleNext = () => {
-    setShowAnswer(false);
-    setCurrentQuestionIndex((prevIndex) => (prevIndex + 1) % questions.length);
-  };
-
-  const handlePrev = () => {
-    setShowAnswer(false);
-    setCurrentQuestionIndex((prevIndex) => (prevIndex - 1 + questions.length) % questions.length);
-  };
 
   const toggleAnswer = () => {
     setShowAnswer(!showAnswer);
   };
 
   return (
-    <div className="container mx-auto p-8">
+    <div className="container mx-auto py-8 px-8">
       <h1 className="text-3xl font-bold mb-8 text-center">Levhalar</h1>
-      <div className="flex justify-center items-center mb-4">
-        <button onClick={handlePrev} className="mr-4">
-          <ArrowLeft size={30} />
-        </button>
-        <div className="card p-4 border rounded-lg shadow-lg">
-          <img src={questions[currentQuestionIndex].image} alt="Question" className="w-1/2 mx-auto mb-4" />
-          <div className="text-center mb-4">
-            <button onClick={toggleAnswer} className="px-5 py-2 rounded-full bg-purple-500 hover:bg-purple-600">
-              {showAnswer ? <Eye size={24} className="text-white" /> : <EyeOff size={24} className="text-white" />}
-            </button>
-          </div>
-          {showAnswer && (
-            <div className="text-center p-2 rounded bg-green-600">
-              <p className="text-white">{questions[currentQuestionIndex].text}</p>
-            </div>
-          )}
+      <div className="flex justify-center items-center">
+          <Carousel className="w-full max-w-sm">
+            <CarouselContent>
+              {questions.map((question, index) => (
+                <CarouselItem key={index}>
+                  <div className="p-1">
+                    <Card>
+                      <CardContent className="flex flex-col items-center justify-center p-6">
+                        <div className="text-center mb-4">
+                          <p>{index + 1} / {questions.length}</p>
+                        </div>
+                        <img src={question.image} alt="Question" className="w-1/2 mb-4" />
+                        <button onClick={toggleAnswer} className="px-5 py-2 rounded-full bg-purple-500 hover:bg-purple-600 mb-4">
+                          {showAnswer ? <EyeOff size={24} className="text-white" /> : <Eye size={24} className="text-white" />}
+                        </button>
+                        {showAnswer && (
+                          <div className="text-center p-2 rounded bg-green-600 w-full">
+                            <p className="text-white">{question.text}</p>
+                          </div>
+                        )}
+                      </CardContent>
+                    </Card>
+                  </div>
+                </CarouselItem>
+              ))}
+            </CarouselContent>
+            <CarouselPrevious />
+            <CarouselNext />
+          </Carousel>
         </div>
-        <button onClick={handleNext} className="ml-4">
-          <ArrowRight size={30} />
-        </button>
-      </div>
     </div>
   );
 }
