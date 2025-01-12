@@ -149,122 +149,122 @@
     },
     {
       "image": "https://ehliyet.io/img/tanzim/38.jpg",
-      "text": "Tek Yön"
+      "text": "Hız Sınırlaması Sonu"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/39.jpg",
-      "text": "İki Yönlü Trafik"
+      "text": "Geçme Yasağı Sonu"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/40.jpg",
-      "text": "Demiryolu Geçidi"
+      "text": "Kamyonlar İçin Geçme Yasağı Sonu"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/41.jpg",
-      "text": "Yaya Geçidi"
+      "text": "Sağa Mecburi Yön"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/42.jpg",
-      "text": "Okul Geçidi"
+      "text": "Sola Mecburi Yön"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/43.jpg",
-      "text": "Tehlikeli Dönemeç"
+      "text": "İleri Mecburi Yön"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/44.jpg",
-      "text": "Tünel Girişi"
+      "text": "İleri Ve Sağa Mecburi Yön"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/45.jpg",
-      "text": "Kasisli Yol"
+      "text": "İleri Ve Sola Mecburi Yön"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/46.jpg",
-      "text": "Dikkat"
+      "text": "Sağa Ve Sola Mecburi Yön"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/47.jpg",
-      "text": "Kaygan Yol"
+      "text": "İleriden Sağa Mecburi Yön"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/48.jpg",
-      "text": "Köprü"
+      "text": "İleriden Sola Mecburi Yön"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/49.jpg",
-      "text": "Sağa Dön"
+      "text": "Sağdan Gidiniz"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/50.jpg",
-      "text": "Sola Dön"
+      "text": "Soldan Gidiniz"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/51.jpg",
-      "text": "İleri Git"
+      "text": "Her İki Yandan Gidiniz"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/52.jpg",
-      "text": "Sağa Devam"
+      "text": "Ada Etrafında Dönünüz"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/53.jpg",
-      "text": "Sola Devam"
+      "text": "Mecburi Bisiklet Yolu"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/54.jpg",
-      "text": "İleri ve Sağa"
+      "text": "Mecburi Bisiklet Yolu Sonu"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/55.jpg",
-      "text": "İleri ve Sola"
+      "text": "Mecburi Yaya Yolu"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/56.jpg",
-      "text": "Yavaşla"
+      "text": "Mecburi Yaya Yolu Sonu"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/57.jpg",
-      "text": "Durmadan Geç"
+      "text": "Mecburi Atlı Yolu"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/58.jpg",
-      "text": "Hız Kontrol Noktası"
+      "text": "Mecburi Atlı Yolu Sonu"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/59.jpg",
-      "text": "Hız Azalt"
+      "text": "Mecburi Asgari Hız"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/60.jpg",
-      "text": "Yükseklik Sınırı"
+      "text": "Mecburi Asgari Hız Sonu"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/61.jpg",
-      "text": "Genişlik Sınırı"
+      "text": "Zincir Takmak Mecburidir"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/62.jpg",
-      "text": "Ağırlık Sınırı"
+      "text": "Zincir Takma Mecburiyeti Sonu"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/63.jpg",
-      "text": "Tırmanma Şeridi"
+      "text": "Tehlikeli Madde Taşıyan Taşıtların İzleyecekleri Mecburi Yön"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/64.jpg",
-      "text": "Tehlikeli Madde"
+      "text": "Yayalar ve Bisikletliler Tarafından Kullanılabilen Yol"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/65.jpg",
-      "text": "Yaklaşan Kavşak"
+      "text": "Yayalar ve Bisikletliler Tarafından Kullanılabilen Yolun Sonu"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/66.jpg",
-      "text": "Kilit Kavşak"
+      "text": "Yayalar ve Bisikletliler için Ayrı Ayrı Kullanılabilen Yol"
     },
     {
       "image": "https://ehliyet.io/img/tanzim/67.jpg",
-      "text": "Trafik Işığı"
+      "text": "Yayalar ve Bisikletliler için Ayrı Ayrı Kullanılabilen Yolun Sonu"
     }
   ]

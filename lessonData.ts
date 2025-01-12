@@ -29,15 +29,10 @@ Trafik, günlük yaşamın devamlılığını sağlar. Güvenli bir trafik düze
 
 **Trafik İşaret ve Levhaları:**
 
-https://www.egm.gov.tr/Sayfalar/TrafikIsaretleri.aspx
-
 **Trafik Sistemi Unsurları:**
-
-https://www.google.com/search?q=trafik+sistemi+şeması&source=lnms&tbm=isch
 
 **Trafik Akışı ve Altyapı:**
 
-https://images.unsplash.com/photo-1726895546262-6acf948975e4?q=80&w=1157&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 
 **1.2. Trafik Kuralları ve İşaretleri**
 
@@ -81,15 +76,9 @@ Trafik işaretleri, yol kullanıcılarını yönlendiren, uyarılar ve yasaklar 
 
 **Uyarı İşaretleri:**
 
-https://www.egm.gov.tr/Sayfalar/TrafikIsaretleri.aspx#uyari
-
 **Trafik Tanzim İşaretleri:**
 
-https://www.egm.gov.tr/Sayfalar/TrafikIsaretleri.aspx#tanzim
-
 **Bilgi İşaretleri:**
-
-https://www.egm.gov.tr/Sayfalar/TrafikIsaretleri.aspx#bilgi
 
 
 **1.3. Yol Kullanıcılarının Hak ve Sorumlulukları**
@@ -160,15 +149,9 @@ Herkes kendi ve diğerlerinin güvenliğini sağlamak için dikkatli ve özenli 
 
 **Yaya ve Araç Etkileşimi:**
 
-https://unsplash.com/s/photos/pedestrian-crossing
-
 **Bisiklet ve Motosiklet Sürücüleri:**
 
-https://unsplash.com/s/photos/bicycle-rider
-
 **Trafik Kurallarına Uygun Davranışlar:**
-
-https://www.shutterstock.com/search/traffic-rules
 
 
 **1.4. Çevre Bilinci ve Trafikte Çevre Koruma**
@@ -217,15 +200,9 @@ Bisiklet ve yaya yollarını tercih edin.
 
 **Hava Kirliliği ve Araç Emisyonları:**
 
-https://unsplash.com/s/photos/vehicle-emissions
-
 **Elektrikli Araçlar ve Alternatif Ulaşım:**
 
-https://unsplash.com/s/photos/electric-vehicle
-
 **Bisiklet ve Toplu Taşıma Kullanımı:**
-
-https://unsplash.com/s/photos/public-transport
 `;
 
 export const AT1: string = `
@@ -277,15 +254,15 @@ Lastik Kontrolü: Lastiklerin hava basıncı ve aşınma durumu sürüş güvenl
 
 **Görsel Link Önerileri**
 
-Motor ve Şanzıman Sistemi:https://unsplash.com/s/photos/car-engine
+Motor ve Şanzıman Sistemi:
 
-Şasi ve Süspansiyon Sistemi:https://unsplash.com/s/photos/suspension-system
+Şasi ve Süspansiyon Sistemi:
 
-Fren Sistemi ve ABS:https://unsplash.com/s/photos/car-brakes
+Fren Sistemi ve ABS:
 
-Direksiyon Sistemi:https://unsplash.com/s/photos/steering-wheel
+Direksiyon Sistemi:
 
-Elektrik Sistemi (Akü ve Alternatör):https://unsplash.com/s/photos/car-battery
+Elektrik Sistemi (Akü ve Alternatör):
 
 
 
@@ -351,15 +328,15 @@ Debriyaj Kontrolleri: Debriyajın düzgün çalışması, vites geçişlerinin s
 
 **Görsel Link Önerileri**
 
-Benzinli ve Dizel Motorlar:https://unsplash.com/s/photos/car-engine
+Benzinli ve Dizel Motorlar:
 
-Elektrik Motorları:https://unsplash.com/s/photos/electric-motor
+Elektrik Motorları:
 
-Şanzıman ve Vites Sistemi:https://unsplash.com/s/photos/gearbox
+Şanzıman ve Vites Sistemi:
 
-Debriyaj Sistemi:https://unsplash.com/s/photos/clutch-system
+Debriyaj Sistemi:
 
-Diferansiyel:https://unsplash.com/s/photos/differential-gear
+Diferansiyel:
 
 
 
@@ -423,15 +400,15 @@ Direksiyon Simidi Durumu: Direksiyon simidi, aracın düzgün çalışabilmesi i
 
 **Görsel Link Önerileri**
 
-Fren Sistemi ve Disk Frenler:https://unsplash.com/s/photos/car-brake-system
+Fren Sistemi ve Disk Frenler:
 
-ABS (Anti-lock Braking System):https://unsplash.com/s/photos/abs-system
+ABS (Anti-lock Braking System):
 
-Direksiyon Sistemi:https://unsplash.com/s/photos/steering-wheel
+Direksiyon Sistemi:
 
-Hidrolik Direksiyon:https://unsplash.com/s/photos/hydraulic-steering
+Hidrolik Direksiyon:
 
-Elektrikli Direksiyon:https://unsplash.com/s/photos/electric-steering-system
+Elektrikli Direksiyon:
 
 
 
@@ -501,17 +478,17 @@ Elektrik sistemindeki arızalar, farlar, klima, cam silecekleri ve diğer elektr
 
 **Görsel Link Önerileri**
 
-Motor Yağı ve Filtre Değişimi:https://unsplash.com/s/photos/oil-change
+Motor Yağı ve Filtre Değişimi:
 
-Fren Sistemi Bakımı:https://unsplash.com/s/photos/brake-maintenance
+Fren Sistemi Bakımı:
 
-Lastik Bakımı ve Değişimi:https://unsplash.com/s/photos/tire-maintenance
+Lastik Bakımı ve Değişimi:
 
-Süspansiyon Sistemi Bakımı:https://unsplash.com/s/photos/suspension-repair
+Süspansiyon Sistemi Bakımı:
 
-Akü Bakımı:https://unsplash.com/s/photos/car-battery-maintenance
+Akü Bakımı:
 
-Egzoz Sistemi Bakımı:https://unsplash.com/s/photos/exhaust-system-repair
+Egzoz Sistemi Bakımı:
 
 `;
 
@@ -576,15 +553,15 @@ Ağrı Kesici ve Antiseptik: Yaraları temizlemek ve enfeksiyonları engellemek 
 
 **Görsel Link Önerileri**
 
-İlk Yardım Temel Uygulamalar:https://unsplash.com/s/photos/first-aid
+İlk Yardım Temel Uygulamalar:
 
-İlk Yardım Çantası İçeriği:https://unsplash.com/s/photos/first-aid-kit
+İlk Yardım Çantası İçeriği:
 
-Suni Solunum:https://unsplash.com/s/photos/CPR
+Suni Solunum:
 
-Kanama Durdurma:https://unsplash.com/s/photos/stop-bleeding
+Kanama Durdurma:
 
-Temel İlk Yardım Eğitimi:https://unsplash.com/s/photos/first-aid-training
+Temel İlk Yardım Eğitimi:
 
 
 
@@ -678,15 +655,15 @@ Yaralıyı gereksiz yere hareket ettirmeyin, özellikle omurga yaralanmasından 
 
 **Görsel Link Önerileri**
 
-Kesiklerde İlk Yardım:https://unsplash.com/s/photos/wound-first-aid
+Kesiklerde İlk Yardım:
 
-Yanıklarda İlk Yardım:https://unsplash.com/s/photos/burn-care
+Yanıklarda İlk Yardım:
 
-Kanamalarda İlk Yardım:https://unsplash.com/s/photos/stop-bleeding
+Kanamalarda İlk Yardım:
 
-Kırık ve Çıkıklarda İlk Yardım:https://unsplash.com/s/photos/fracture-first-aid
+Kırık ve Çıkıklarda İlk Yardım:
 
-Burkulmalarda İlk Yardım:https://unsplash.com/s/photos/sprain-care
+Burkulmalarda İlk Yardım:
 
 
 
@@ -762,15 +739,15 @@ Polis veya jandarma gelene kadar olay yerinden ayrılmayın.
 
 **Görsel Link Önerileri**
 
-Kaza Anında Güvenlik Önlemleri:https://unsplash.com/s/photos/traffic-accident-safety
+Kaza Anında Güvenlik Önlemleri:
 
-İlk Yardım Müdahalesi:https://unsplash.com/s/photos/first-aid-accident
+İlk Yardım Müdahalesi:
 
-Trafik Güvenlik İşaretleri:https://unsplash.com/s/photos/road-safety-signs
+Trafik Güvenlik İşaretleri:
 
-Kaza Sonrası Yaralıların Kontrolü:https://unsplash.com/s/photos/accident-victims-first-aid
+Kaza Sonrası Yaralıların Kontrolü:
 
-Acil Yardım Çağırma:https://unsplash.com/s/photos/emergency-call
+Acil Yardım Çağırma:
 
 
 
@@ -854,17 +831,17 @@ Yardımcı Olacak Çevredekilerden Destek Alın: Etrafınızdaki insanlara göre
 
 **Görsel Link Önerileri**
 
-Trafik Kazasında Müdahale:https://unsplash.com/s/photos/car-accident-rescue
+Trafik Kazasında Müdahale:
 
-Yangın Söndürme:https://unsplash.com/s/photos/fire-extinguisher
+Yangın Söndürme:
 
-Doğal Afet Hazırlığı:https://unsplash.com/s/photos/emergency-preparation
+Doğal Afet Hazırlığı:
 
-Kalp Krizi Müdahalesi:https://unsplash.com/s/photos/cpr-training
+Kalp Krizi Müdahalesi:
 
-Boğulma Müdahalesi:https://unsplash.com/s/photos/drowning-rescue
+Boğulma Müdahalesi:
 
-Elektrik Çarpmasında Müdahale:https://unsplash.com/s/photos/electrical-safety
+Elektrik Çarpmasında Müdahale:
 
 `;
 
@@ -925,15 +902,15 @@ Yayaların geçişine izin vermek, bisiklet sürücülerine güvenli mesafe bır
 
 **Görsel Link Önerileri**
 
-Trafikte Saygı ve Hoşgörü:https://unsplash.com/s/photos/polite-driver
+Trafikte Saygı ve Hoşgörü:
 
-Yaya Geçidinde Saygı:https://unsplash.com/s/photos/pedestrian-crossing
+Yaya Geçidinde Saygı:
 
-Trafik Akışında Hoşgörü:https://unsplash.com/s/photos/traffic-flow
+Trafik Akışında Hoşgörü:
 
-Acil Durum Araçlarına Yol Vermek:https://unsplash.com/s/photos/ambulance-road
+Acil Durum Araçlarına Yol Vermek:
 
-Şerit Kullanımı:https://unsplash.com/s/photos/lane-discipline
+Şerit Kullanımı:
 
 **4.2. Sürücü ve Yayaların Etik Davranışları**
 
@@ -1017,15 +994,15 @@ Etik davranışlar, gereksiz duraklamaları ve çatışmaları azaltarak trafik 
 
 **Görsel Link Önerileri**
 
-Yaya Geçitlerinde Saygı:https://unsplash.com/s/photos/pedestrian-crossing
+Yaya Geçitlerinde Saygı:
 
-Sürücülerin Doğru Şerit Kullanımı:https://unsplash.com/s/photos/lane-discipline
+Sürücülerin Doğru Şerit Kullanımı:
 
-Acil Durum Araçlarına Yol Verme:https://unsplash.com/s/photos/emergency-vehicles-road
+Acil Durum Araçlarına Yol Verme:
 
-Çevreye Duyarlı Trafik Davranışları:https://unsplash.com/s/photos/eco-friendly-driving
+Çevreye Duyarlı Trafik Davranışları:
 
-Yayaların Güvenli Geçişi:https://unsplash.com/s/photos/pedestrian-safety
+Yayaların Güvenli Geçişi:
 
 
 
@@ -1103,13 +1080,13 @@ Toplumun trafikteki sorunlara çözüm önerileri geliştirmesi
 
 **Görsel Link Önerileri**
 
-Gelişmiş Trafik Kültürü:https://unsplash.com/photos/traffic-culture
+Gelişmiş Trafik Kültürü:
 
-Toplumsal Trafik Bilinci:https://unsplash.com/photos/traffic-awareness
+Toplumsal Trafik Bilinci:
 
-Trafikte Eğitim:https://unsplash.com/photos/traffic-education
+Trafikte Eğitim:
 
-Trafik ve Çevre İlişkisi:https://unsplash.com/photos/traffic-environment
+Trafik ve Çevre İlişkisi:
 
 
 
@@ -1205,12 +1182,12 @@ Toplumdaki lider figürlerin iletişim ve empatiye önem veren davranışları t
 
 **Görsel Link Önerileri**
 
-Trafikte İletişim İşaretleri:https://unsplash.com/photos/traffic-signals
+Trafikte İletişim İşaretleri:
 
-Empati ve Trafik Güvenliği:https://unsplash.com/photos/road-safety
+Empati ve Trafik Güvenliği:
 
-Yaya ve Sürücü Etkileşimi:https://unsplash.com/photos/pedestrian-driver-interaction
+Yaya ve Sürücü Etkileşimi:
 
-Trafikte Nazik Davranışlar:https://unsplash.com/photos/kindness-in-traffic
+Trafikte Nazik Davranışlar:
 `;
 
