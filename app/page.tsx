@@ -67,6 +67,14 @@ export default function Home() {
               </p>
             </div>
           </Link>
+          <Link href="/query" className="flex-1">
+            <div className="h-48 p-6 rounded-xl border hover:shadow-lg transition-all bg-white dark:bg-gray-800">
+              <h2 className="text-2xl font-bold mb-4">Sorular</h2>
+              <p className="text-gray-600 dark:text-gray-300">
+                Soru listesini görüntüle ve yönet
+              </p>
+            </div>
+          </Link>
         </div>
       </main>
     </div>
