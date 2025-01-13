@@ -145,14 +145,6 @@ Trafikte tüm kullanıcılar güvenlik kurallarına uymak zorundadır.
 
 Herkes kendi ve diğerlerinin güvenliğini sağlamak için dikkatli ve özenli olmalıdır.
 
-**Görsel**
-
-**Yaya ve Araç Etkileşimi:**
-
-**Bisiklet ve Motosiklet Sürücüleri:**
-
-**Trafik Kurallarına Uygun Davranışlar:**
-
 
 **1.4. Çevre Bilinci ve Trafikte Çevre Koruma**
 
@@ -195,14 +187,6 @@ Bisiklet ve yaya yollarını tercih edin.
 **Akıllı Trafik Sistemleri:** Trafik yoğunluğunu düzenleyerek yakıt tüketimini düşürür.
 
 **Yeşil Alanlar ve Gürültü Bariyerleri:** Trafik kaynaklı çevre etkilerini azaltır.
-
-**Görsel**
-
-**Hava Kirliliği ve Araç Emisyonları:**
-
-**Elektrikli Araçlar ve Alternatif Ulaşım:**
-
-**Bisiklet ve Toplu Taşıma Kullanımı:**
 `;
 
 export const AT1: string = `
@@ -251,19 +235,6 @@ Yağ Değişimi: Motorun sağlıklı çalışabilmesi için düzenli olarak moto
 Fren Kontrolleri: Fren sisteminin düzenli bakımı, güvenli sürüş için önemlidir.
 
 Lastik Kontrolü: Lastiklerin hava basıncı ve aşınma durumu sürüş güvenliğini etkiler.
-
-**Görsel Link Önerileri**
-
-Motor ve Şanzıman Sistemi:
-
-Şasi ve Süspansiyon Sistemi:
-
-Fren Sistemi ve ABS:
-
-Direksiyon Sistemi:
-
-Elektrik Sistemi (Akü ve Alternatör):
-
 
 
 **2.2. Motor ve Aktarma Organları**
@@ -326,19 +297,6 @@ Vites Sistemi Bakımı: Şanzımanın doğru çalışabilmesi için periyodik ba
 
 Debriyaj Kontrolleri: Debriyajın düzgün çalışması, vites geçişlerinin sorunsuz olmasını sağlar.
 
-**Görsel Link Önerileri**
-
-Benzinli ve Dizel Motorlar:
-
-Elektrik Motorları:
-
-Şanzıman ve Vites Sistemi:
-
-Debriyaj Sistemi:
-
-Diferansiyel:
-
-
 
 **2.3. Fren ve Direksiyon Sistemleri**
 
@@ -397,20 +355,6 @@ Direksiyon Yağı Kontrolü: Hidrolik direksiyon sistemlerinde sıvı seviyesi d
 Direksiyon Sistemi Bağlantılarının Kontrolü: Direksiyon sistemi bağlantıları periyodik olarak kontrol edilmelidir.
 
 Direksiyon Simidi Durumu: Direksiyon simidi, aracın düzgün çalışabilmesi için düzenli olarak test edilmelidir.
-
-**Görsel Link Önerileri**
-
-Fren Sistemi ve Disk Frenler:
-
-ABS (Anti-lock Braking System):
-
-Direksiyon Sistemi:
-
-Hidrolik Direksiyon:
-
-Elektrikli Direksiyon:
-
-
 
 **2.4. Araç Bakımı ve Onarımı**
 
@@ -475,21 +419,6 @@ Fren sisteminin çalışmaması, güvenli bir sürüş için ciddi bir tehdit ol
 **Elektrik Sistemi Onarımı**
 
 Elektrik sistemindeki arızalar, farlar, klima, cam silecekleri ve diğer elektrikli bileşenlerin düzgün çalışmamasına neden olabilir. Akü, alternatör veya elektriksel bağlantıların kontrol edilmesi gerekebilir.
-
-**Görsel Link Önerileri**
-
-Motor Yağı ve Filtre Değişimi:
-
-Fren Sistemi Bakımı:
-
-Lastik Bakımı ve Değişimi:
-
-Süspansiyon Sistemi Bakımı:
-
-Akü Bakımı:
-
-Egzoz Sistemi Bakımı:
-
 `;
 
 export const IYB1: string = `
@@ -550,22 +479,6 @@ Yaralı kişinin rahatlamasına yardımcı olun. Yaralı kişi, mümkünse sırt
 İlk Yardım Çantası: Temel sağlık malzemelerini içeren bir çanta, her zaman araçta veya evde bulunmalıdır. Çantada yara bandı, antiseptik, gazlı bez, eldiven ve ilaçlar yer almalıdır.
 
 Ağrı Kesici ve Antiseptik: Yaraları temizlemek ve enfeksiyonları engellemek için antiseptik solüsyonlar kullanılabilir. Ayrıca, ağrı kesici ilaçlar da yaralı kişinin rahatlamasına yardımcı olabilir.
-
-**Görsel Link Önerileri**
-
-İlk Yardım Temel Uygulamalar:
-
-İlk Yardım Çantası İçeriği:
-
-Suni Solunum:
-
-Kanama Durdurma:
-
-Temel İlk Yardım Eğitimi:
-
-
-
-
 
 **3.2. Yaralanmalarda İlk Yardım**
 
@@ -653,24 +566,6 @@ Eğer yaralı kişi bilincini kaybederse, temel yaşam desteği uygulamalarına 
 
 Yaralıyı gereksiz yere hareket ettirmeyin, özellikle omurga yaralanmasından şüpheleniyorsanız.
 
-**Görsel Link Önerileri**
-
-Kesiklerde İlk Yardım:
-
-Yanıklarda İlk Yardım:
-
-Kanamalarda İlk Yardım:
-
-Kırık ve Çıkıklarda İlk Yardım:
-
-Burkulmalarda İlk Yardım:
-
-
-
-
-
-
-
 **3.3. Kaza Anında Yapılması Gerekenler**
 
 Trafik kazaları beklenmedik durumlar olup, doğru müdahaleler hem hayat kurtarabilir hem de daha büyük sorunların önüne geçebilir. Kaza anında yapılması gerekenler, olayın boyutuna, yaralıların durumuna ve çevresel koşullara bağlı olarak değişiklik gösterir. Ancak aşağıdaki genel adımlar, kaza anında etkin ve güvenli bir şekilde hareket etmenize yardımcı olabilir.
@@ -736,21 +631,6 @@ Kazaya karışan araçları mümkünse yoldan çekin ve yolun trafiğe açılmas
 Kazaya karışan diğer sürücülerle tartışmaktan kaçının ve olayın çözümünü yetkililere bırakın.
 
 Polis veya jandarma gelene kadar olay yerinden ayrılmayın.
-
-**Görsel Link Önerileri**
-
-Kaza Anında Güvenlik Önlemleri:
-
-İlk Yardım Müdahalesi:
-
-Trafik Güvenlik İşaretleri:
-
-Kaza Sonrası Yaralıların Kontrolü:
-
-Acil Yardım Çağırma:
-
-
-
 
 
 **3.4. Acil Durumlarda Müdahale Teknikleri**
@@ -828,21 +708,6 @@ Sakin Olun: Panik yapmak durumu kötüleştirebilir. Olayı değerlendirmek içi
 Kendi Güvenliğinizi Ön Planda Tutun: Tehlikeli bir ortamdaysanız önce kendinizi koruyun.
 
 Yardımcı Olacak Çevredekilerden Destek Alın: Etrafınızdaki insanlara görevler dağıtarak organize olun.
-
-**Görsel Link Önerileri**
-
-Trafik Kazasında Müdahale:
-
-Yangın Söndürme:
-
-Doğal Afet Hazırlığı:
-
-Kalp Krizi Müdahalesi:
-
-Boğulma Müdahalesi:
-
-Elektrik Çarpmasında Müdahale:
-
 `;
 
 export const TA1: string = `
@@ -899,18 +764,6 @@ Yayaların geçişine izin vermek, bisiklet sürücülerine güvenli mesafe bır
 **İletişim Kurun:** El hareketleri veya kısa bir korna ile diğer sürücülere niyetinizi ifade edebilirsiniz.
 
 **Sakin Kalın:** Trafikte meydana gelen olumsuz durumlara aşırı tepki vermekten kaçının.
-
-**Görsel Link Önerileri**
-
-Trafikte Saygı ve Hoşgörü:
-
-Yaya Geçidinde Saygı:
-
-Trafik Akışında Hoşgörü:
-
-Acil Durum Araçlarına Yol Vermek:
-
-Şerit Kullanımı:
 
 **4.2. Sürücü ve Yayaların Etik Davranışları**
 
@@ -992,21 +845,6 @@ Trafikte karşılıklı anlayış ve saygı, bireylerin birbirine güven duymas�
 
 Etik davranışlar, gereksiz duraklamaları ve çatışmaları azaltarak trafik akışının düzenlenmesine katkıda bulunur.
 
-**Görsel Link Önerileri**
-
-Yaya Geçitlerinde Saygı:
-
-Sürücülerin Doğru Şerit Kullanımı:
-
-Acil Durum Araçlarına Yol Verme:
-
-Çevreye Duyarlı Trafik Davranışları:
-
-Yayaların Güvenli Geçişi:
-
-
-
-
 
 **4.3. Trafik Kültürü ve Toplum İlişkisi**
 
@@ -1077,19 +915,6 @@ Ebeveynlerin, öğretmenlerin ve kamu figürlerinin trafikte örnek davranışla
 Sivil toplum kuruluşlarının trafik güvenliği ve eğitimi konularında aktif rol alması
 
 Toplumun trafikteki sorunlara çözüm önerileri geliştirmesi
-
-**Görsel Link Önerileri**
-
-Gelişmiş Trafik Kültürü:
-
-Toplumsal Trafik Bilinci:
-
-Trafikte Eğitim:
-
-Trafik ve Çevre İlişkisi:
-
-
-
 
 
 **4.4. Trafikte İletişim ve Empati**
@@ -1179,15 +1004,5 @@ Medyada, trafikte saygı ve anlayışın önemini vurgulayan içerikler paylaş�
 Aile içinde, ebeveynlerin trafikteki örnek davranışları çocuklara empatiyi öğretir.
 
 Toplumdaki lider figürlerin iletişim ve empatiye önem veren davranışları teşvik edici rol oynar.
-
-**Görsel Link Önerileri**
-
-Trafikte İletişim İşaretleri:
-
-Empati ve Trafik Güvenliği:
-
-Yaya ve Sürücü Etkileşimi:
-
-Trafikte Nazik Davranışlar:
 `;
 
