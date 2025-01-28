@@ -1,519 +1,507 @@
-"id": "2025_01_13",
-"title": "Ocak Ehliyet Deneme Soruları 13",
-"desc": "2025 Ocak Ayı Sınav-13 Kurstanbul tarafından e-sınav müfredatına uygun olarak hazırlanmıştır.",
-"questions":
-[
-  {
-    "question": "1) Yerleşim birimleri dışındaki kara yollarında, hangi tür taşıtların öndeki araçla olan takip mesafesi 50 metreden az olmamalıdır?",
-    "options": [
-      "A) Otomobil",
-      "B) Motosiklet",
-      "C) Tehlikeli madde taşıyan taşıt",
-      "D) Lastik tekerlekli traktör"
-    ],
-    "correctAnswer": "C"
-  },
-  {
-    "question": "2) Aşağıdakilerden hangisi burkulmalarda uygulanan ilk yardım ilkeleri arasında yer alır?",
-    "options": [
-      "A) Burkulan eklemin kalp seviyesinden aşağıda tutulması",
-      "B) Burkulan eklemin sıkıştırıcı bir bandajla tespit edilmesi",
-      "C) Burkulan eklemin sürekli hareket ettirilmesi",
-      "D) Burkulan ekleme turnike uygulanması"
-    ],
-    "correctAnswer": "B"
-  },
-  {
-    "question": "3) Şekildeki gibi park etmiş aracın hangi tarafında duraklama yapılamaz?
-    https://ehliyetsinavihazirlik.com/images/sorular/8aralik2013ehliyetsorulari/soru38.jpg",
-    "options": [
-      "A) Önünde",
-      "B) Arkasında",
-      "C) Yol tarafındaki yanında",
-      "D) Ön ve arkasına 50 metre mesafede"
-    ],
-    "correctAnswer": "C"
-  },
-  {
-    "question": "4) Kullanma kılavuzuna göre, belirli kilometre sonunda araçta aşağıdakilerden hangisi değiştirilmelidir?",
-    "options": [
-      "A) Direksiyon simidi",
-      "B) Yağ filtresi",
-      "C) Radyatör",
-      "D) Dikiz aynaları"
-    ],
-    "correctAnswer": "B"
-  },
-  {
-    "question": "5) Benzin motorlu araç su birikintisinde ıslanarak stop ederse, çalıştırmak için ne yapılır?",
-    "options": [
-      "A) Arka arkaya marş yapılır.",
-      "B) Depoya benzin ilave edilir.",
-      "C) Marş sisteminin parçaları kurulanır.",
-      "D) Ateşleme sisteminin parçaları kurulanır."
-    ],
-    "correctAnswer": "D"
-  },
-  {
-    "question": "6) Kalp masajı yapılacak olan kazazede hangi pozisyonda ve nereye yatırılmalıdır?",
-    "options": [
-      "A) Sırtüstü, sert bir zemine",
-      "B) Yüzüstü, sert bir zemine",
-      "C) Sırtüstü, yumuşak bir zemine",
-      "D) Yüzüstü, yumuşak bir zemine"
-    ],
-    "correctAnswer": "A"
-  },
-  {
-    "question": "7) I- İtfaiye araçları II- Toplu taşıma araçları III- Yaralı ve acil hasta taşıyan araçlar\nVerilenlerden hangileri geçiş üstünlüğüne sahip araçlardandır?",
-    "options": [
-      "A) Yalnız I",
-      "B) I ve II",
-      "C) I ve III",
-      "D) I, II ve III"
-    ],
-    "correctAnswer": "D"
-  },
-  {
-    "question": "8) Boyun kırıklarında, yanlış taşıma ve gereksiz hareketler sonucu omurilik zedelenmesine bağlı olarak vücutta aşağıdakilerden hangisi meydana gelebilir?",
-    "options": [
-      "A) Felç",
-      "B) Saç dökülmesi",
-      "C) Bulantı ve kusma",
-      "D) Bedensel aktivitede artma"
-    ],
-    "correctAnswer": "A"
-  },
-  {
-    "question": "9) Buzlanmanın olduğu yolda sürücünün aşağıdakilerden hangisini yapması doğrudur?",
-    "options": [
-      "A) Ani fren yaparak durmaya çalışması",
-      "B) Takip mesafesini azaltması",
-      "C) Takip mesafesine uyması",
-      "D) Takip mesafesini artırması"
-    ],
-    "correctAnswer": "D"
-  },
-  {
-    "question": "10) Şekildeki trafik işareti neyi bildirir?
-    https://ehliyetsinavihazirlik.com/images/10sinav7/soru39.gif",
-    "options": [
-      "A) Kasisli yola girileceğini",
-      "B) Yolda çalışma olduğunu",
-      "C) Yolun trafiğe kapalı olduğunu",
-      "D) Motorlu taşıtların giremeyeceğini"
-    ],
-    "correctAnswer": "A"
-  },
-  {
-    "question": "11) Araç lastiği değiştirilirken, aracın kriko ile kaldırılması durumunda aşağıdakilerden hangisi yapılır?",
-    "options": [
-      "A) El freni çekilir.",
-      "B) El freni bırakılır.",
-      "C) Debriyaja basılır.",
-      "D) Vites boşa alınır."
-    ],
-    "correctAnswer": "A"
-  },
-  {
-    "question": "12) Aşağıdakilerden hangisi çevre kirliliğine yol açar?",
-    "options": [
-      "A) Mümkün olduğunca otobüs, vapur, tren, metro gibi toplu taşıma araçlarının kullanılması",
-      "B) Bakımsız araçlardan yere (yağ, su vb.) sızıntı olması",
-      "C) Tehlikeli maddelerin usulüne uygun taşınması",
-      "D) Araç bakımlarının sürelerinde yapılması"
-    ],
-    "correctAnswer": "B"
-  },
-  {
-    "question": "13) Debriyaj bilyasının sık sık bozulmasının sebebi aşağıdakilerden hangisidir?",
-    "options": [
-      "A) Taşıt hareket hâlinde iken debriyaj pedalına yarım basılıyordur.",
-      "B) Debriyaj pedalına hiç basılmıyordur.",
-      "C) Debriyaj pedal boşluğu fazladır.",
-      "D) Debriyaj teli kopmuştur."
-    ],
-    "correctAnswer": "A"
-  },
-  {
-    "question": "14) Sürücüler dönüşlerde aşağıdakilerden hangisini yapmak zorundadır?",
-    "options": [
-      "A) Niyetini dönüş lambasıyla önceden bildirmek",
-      "B) İşaret verdiği anda aniden şerit değiştirmek",
-      "C) Dönmeye başladıktan sonra işaret vermek",
-      "D) Arkadan gelen araçlara yol vermek"
-    ],
-    "correctAnswer": "A"
-  },
-  {
-    "question": "15) Aşağıdakilerden hangisi araca binmeden önce yapılması gereken kontrollerdendir?",
-    "options": [
-      "A) Ayna ayarları",
-      "B) Yakıt seviyesi",
-      "C) Araç lastikleri",
-      "D) Koltuk ayarları"
-    ],
-    "correctAnswer": "A"
-  },
-  {
-    "question": "16) Trafikte hangi temel değere sahip olan sürücü, kendini yaya olan yol kullanıcısının yerine koyar ve aracını kaldırıma park etmekten kaçınır?",
-    "options": [
-      "A) Empati düzeyi yüksek",
-      "B) Görgü seviyesi düşük",
-      "C) Sorumsuz",
-      "D) Bencil"
-    ],
-    "correctAnswer": "A"
-  },
-  {
-    "question": "17) Aksine bir işaret yoksa yerleşim yeri dışındaki bölünmüş kara yolunda, şekildeki 1 numaralı aracın azami (en yüksek) hızı saatte kaç kilometredir?
-    https://ehliyetsinavihazirlik.com/images/17aralik2016/22.gif",
-    "options": [
-      "A) 50",
-      "B) 70",
-      "C) 90",
-      "D) 110"
-    ],
-    "correctAnswer": "C"
-  },
-  {
-    "question": "18) Aksine bir durum yoksa yerleşim yeri dışındaki kara yollarında, geceleri hangi ışıkların yakılması zorunludur?",
-    "options": [
-      "A) Uzağı gösteren ışıkların",
-      "B) Acil uyarı ışıklarının",
-      "C) Park ışıklarının",
-      "D) Sis ışıklarının"
-    ],
-    "correctAnswer": "A"
-  },
-  {
-    "question": "19) Motor çalışır durumda iken aracın gösterge panelinde yağ basıncı ikaz ışığı yanıyorsa sebebi aşağıdakilerden hangisi olabilir?",
-    "options": [
-      "A) Fren hidroliğinin eksilmesi",
-      "B) Karterde yağın kalmaması",
-      "C) Depodaki yakıtın azalması",
-      "D) Radyatörde antifrizin olmaması"
-    ],
-    "correctAnswer": "B"
-  },
-  {
-    "question": "20) Kırık ve çıkık bölgesine ilk yardım olarak aşağıdaki işlemlerden hangisi yapılır?",
-    "options": [
-      "A) Hareketsiz kalması sağlanır.",
-      "B) Kuvvetli masaj yapılır.",
-      "C) Sürekli buzla ovulur.",
-      "D) Turnike uygulanır."
-    ],
-    "correctAnswer": "A"
-  },
-  {
-    "question": "21) Trafik görevlisinin hangi hareketi 'trafiği yavaşlatma' işaretidir?",
-    "options": [
-      "A) 
-      https://ehliyetsinavihazirlik.com/images/10sinav3/soru37a.gif",
-      "B) 
-      https://ehliyetsinavihazirlik.com/images/10sinav3/soru37b.gif",
-      "C) 
-      https://ehliyetsinavihazirlik.com/images/10sinav3/soru37c.gif",
-      "D) 
-      https://ehliyetsinavihazirlik.com/images/10sinav3/soru37d.gif"
-    ],
-    "correctAnswer": "A"
-  },
-  {
-    "question": "22) I. Reflektör II. İlk yardım çantası III. Yangın söndürme cihazı\nOtomobillerde yukarıda verilenlerden hangilerinin bulundurulması zorunludur?",
-    "options": [
-      "A) Yalnız I",
-      "B) I ve II",
-      "C) II ve III",
-      "D) I, II ve III"
-    ],
-    "correctAnswer": "D"
-  },
-  {
-    "question": "23) Aşağıdakilerden hangisi ilk yardımın temel uygulamalarından biri değildir?",
-    "options": [
-      "A) Koruma",
-      "B) Kurtarma",
-      "C) Bildirme",
-      "D) Tedavi etme"
-    ],
-    "correctAnswer": "D"
-  },
-  {
-    "question": "24) Aşağıdakilerden hangisi omurga yaralanmasına bağlı olarak meydana gelebilir?",
-    "options": [
-      "A) Saç dökülmesi",
-      "B) Bedensel aktivitede artma",
-      "C) Ağızdan köpüklü kan gelmesi",
-      "D) Yaralanma bölgesinin alt tarafında felç"
-    ],
-    "correctAnswer": "D"
-  },
-  {
-    "question": "25) Trafik denetim görevlileriyle iletişim kuran sürücünün, trafik adabı açısından özen göstermesi gereken davranış şekli aşağıdakilerden hangisidir?",
-    "options": [
-      "A) Karşısındaki kişiyi suçlaması",
-      "B) Empati kurmaktan kaçınması",
-      "C) Karşısındaki kişiye saygı duyması",
-      "D) Karşısındaki kişiyi dinlemekten kaçınması"
-    ],
-    "correctAnswer": "C"
-  },
-  {
-    "question": "26) Trafik kurallarına harfiyen uyan bir sürücü için aşağıdakilerden hangisi söylenir?",
-    "options": [
-      "A) Saygısız",
-      "B) Bencil",
-      "C) Korkusuz",
-      "D) Farkındalık kazanmış"
-    ],
-    "correctAnswer": "D"
-  },
-  {
-    "question": "27) Aşağıdakilerden hangisi yağlama sisteminin parçasıdır?",
-    "options": [
-      "A) Distribütör",
-      "B) Karbüratör",
-      "C) Karter",
-      "D) Alternatör"
-    ],
-    "correctAnswer": "C"
-  },
-  {
-    "question": "28) Aşağıdakilerden hangisi enjektörlere sırası ile basınçlı motorin gönderir?",
-    "options": [
-      "A) Karbüratör",
-      "B) Yakıt filtresi",
-      "C) Besleme pompası",
-      "D) Yakıt enjeksiyon pompası"
-    ],
-    "correctAnswer": "D"
-  },
-  {
-    "question": "29) Aşağıdaki etkinliklerden hangisi stresi azaltır?",
-    "options": [
-      "A) Diğer şoförlere bağırmak",
-      "B) Hız yapmak",
-      "C) Kırmızı ışıkta geçmek",
-      "D) Derin nefes almak"
-    ],
-    "correctAnswer": "D"
-  },
-  {
-    "question": "30) Motorda hava filtresinin görevi nedir?",
-    "options": [
-      "A) Suyu temizlemek",
-      "B) Yağı temizlemek",
-      "C) Yakıtı temizlemek",
-      "D) Havayı temizlemek"
-    ],
-    "correctAnswer": "D"
-  },
-  {
-    "question": "31) Aşağıdakilerden hangisi trafik kazasında aslî kusur sayılır?",
-    "options": [
-      "A) Hızının gerektirdiği şeritten gitmemek",
-      "B) Fazla yolcu almak",
-      "C) Aşırı yük yüklemek",
-      "D) Karşı şeridi ihlal etmek"
-    ],
-    "correctAnswer": "A"
-  },
-  {
-    "question": "32) Aşağıdakilerden hangisi özel araçları gereksiz kullanmanın zararlarındandır?",
-    "options": [
-      "A) Yakıt tüketiminin azalması",
-      "B) Trafik yoğunluğunun artması",
-      "C) Trafik yoğunluğunun azalması",
-      "D) Yürüme alışkanlığı oluşturması"
-    ],
-    "correctAnswer": "B"
-  },
-  {
-    "question": "33) Marş motoru aşağıdaki parçalardan hangisine hareket iletir?",
-    "options": [
-      "A) Volan dişlisine",
-      "B) Diferansiyele",
-      "C) Amortisöre",
-      "D) Fan motoruna"
-    ],
-    "correctAnswer": "A"
-  },
-  {
-    "question": "34) Aşağıdakilerden hangisi elektrik devresindeki sigortanın görevidir?",
-    "options": [
-      "A) Aküyü şarj etmek",
-      "B) Bujilere giden akımı yükseltmek",
-      "C) Kısa devre olduğunda sistemi korumak",
-      "D) Endüksiyon bobinine giden akımı yükseltmek"
-    ],
-    "correctAnswer": "C"
-  },
-  {
-    "question": "35) Aracın gösterge panelinde şekildeki uyarı lambasının yanıyor olması neyi bildirir?
-    https://ehliyetsinavihazirlik.com/images/sorular/29agustos/soru43.png",
-    "options": [
-      "A) El freninin çekili olduğunu",
-      "B) Yağ basıncının çok düştüğünü",
-      "C) Motor hararetinin çok yükseldiğini",
-      "D) Şarj sisteminde bir arıza olduğunu"
-    ],
-    "correctAnswer": "A"
-  },
-  {
-    "question": "36) Tehlikeli madde taşıyan araçlar arızalandığında aşağıdakilerden hangisi yapılmalıdır?",
-    "options": [
-      "A) Acil uyarı ışıkları ile diğer araç sürücüleri uyarılmalı",
-      "B) Aracın ön ve arkasına büyük boyutlu taşlar dizilmeli",
-      "C) Kırmızı ışık veren cihazlarla işaretlenip gözcü bulundurulmalı",
-      "D) Araç üzerine tehlikeli madde yazılı levhalar konulmalı"
-    ],
-    "correctAnswer": "A"
-  },
-  {
-    "question": "37) Hız sınırlarını yüzde otuzdan fazla aşmak suretiyle ihlal edenlerin, sürücü belgelerinin bir yıl süre ile geri alınabilmesi için, aynı suçun bir yıl içinde kaç kez işlenmesi gerekir?",
-    "options": [
-      "A) 5",
-      "B) 4",
-      "C) 3",
-      "D) 2"
-    ],
-    "correctAnswer": "D"
-  },
-  {
-    "question": "38) Şoka girmiş bir kazazedede kanın, beyin ve hayati organlara taşınmasını sağlamak amacıyla yapılan uygulama aşağıdakilerden hangisidir?",
-    "options": [
-      "A) Baş, boyun ve gövde ekseninin korunması",
-      "B) Kazazedenin gömlek yakasının ve kemerinin gevşetilmesi",
-      "C) Sırt üstü yatırılarak ayaklarının 30 cm kadar yükseltilmesi",
-      "D) Başın yana çevrilerek, çenenin göğüsten uzaklaştırılması"
-    ],
-    "correctAnswer": "C"
-  },
-  {
-    "question": "39) Aracın gösterge panelinde bulunan şekildeki ikaz ışığı, aşağıdakilerden hangisidir?
-    https://ehliyetsinavihazirlik.com/images/banners/soru49.gif",
-    "options": [
-      "A) Arka sis lambası ikaz ışığı",
-      "B) Hava yastığı ikaz ışığı",
-      "C) Akü şarj ikaz ışığı",
-      "D) ABS fren sistemi ikaz ışığı"
-    ],
-    "correctAnswer": "C"
-  },
-  {
-    "question": "40) 120 Km hızla giden bir otomobilin öndeki araç ile olan takip mesafesi en az kaç metre olmalıdır?",
-    "options": [
-      "A) 60",
-      "B) 70",
-      "C) 80",
-      "D) 30"
-    ],
-    "correctAnswer": "C"
-  },
-  {
-    "question": "41) Işıklı trafik işaret cihazında, hangisinin yanması yolun trafiğe kapanmak üzere olduğunu bildirir?",
-    "options": [
-      "A) Yeşil ışıktan sonra yanan sarı ışık",
-      "B) Kırmızı ışıkla birlikte yanan sarı ışık",
-      "C) Aralıklı yanıp sönen sarı ışık",
-      "D) Aralıklı yanıp sönen kırmızı ışık"
-    ],
-    "correctAnswer": "B"
-  },
-  {
-    "question": "42) Öndeki araç geçilirken, geçiş şeridinde ne kadar seyredilmelidir?",
-    "options": [
-      "A) Geçilen aracın boyunun yarısı kadar",
-      "B) Geçilen aracın ön hizasına gelinceye kadar",
-      "C) Karşıdan gelen araçla karşılaşıncaya kadar",
-      "D) Geriyi görme aynasından geçilen araç görülünceye kadar"
-    ],
-    "correctAnswer": "D"
-  },
-  {
-    "question": "43) Bilinmeyen bir kimyasal sıvıyı yeni içtiği fark edilen kişilere, ilk yardım olarak aşağıdakilerden hangisi uygulanır?",
-    "options": [
-      "A) Kusturma",
-      "B) Bol su içirme",
-      "C) Sarımsaklı yoğurt yedirme",
-      "D) İçtiği maddeyi sulandırıp verme"
-    ],
-    "correctAnswer": "B"
-  },
-  {
-    "question": "44) Araçların muayene süresi dolmasa bile, aşağıdaki hâllerin hangisinden dolayı özel muayenesi zorunludur?",
-    "options": [
-      "A) Üzerinde teknik değişiklik yapıldığında",
-      "B) Sürücüsü veya işleticisi değiştiğinde",
-      "C) Motoru bakımdan geçirildiğinde",
-      "D) Sahibi değiştiğinde"
-    ],
-    "correctAnswer": "A"
-  },
-  {
-    "question": "45) Şekildeki gibi sağa dönüş yapmak isteyen sürücülerin aşağıdakilerden hangisini yapması yanlıştır?
-    https://ehliyetsinavihazirlik.com/images/sorular/8mart2014ehliyetsorulari/soru31.jpg",
-    "options": [
-      "A) Hızlarını azaltmaları",
-      "B) Dar bir kavisle dönmeleri",
-      "C) Dönüşlerini en sol şeritte tamamlamaları",
-      "D) Bulundukları şeritte en sağa yaklaşmaları"
-    ],
-    "correctAnswer": "C"
-  },
-  {
-    "question": "46) Şekildeki trafik işaretinin anlamı nedir?
-    https://ehliyetsinavihazirlik.com/images/23araliksorulari/16.png",
-    "options": [
-      "A) Hemzemin geçit",
-      "B) Kontrollü demir yolu geçidi",
-      "C) Kontrolsüz demir yolu geçidi",
-      "D) Tramvay hattı ile oluşan kavşak"
-    ],
-    "correctAnswer": "D"
-  },
-  {
-    "question": "47) Aksine bir işaret yoksa, şekildeki araç için “otoyollarda” azami hız sınırı saatte kaç kilometredir?
-    https://ehliyetsinavihazirlik.com/images/10sinav10/soru52.gif",
-    "options": [
-      "A) 110",
-      "B) 120",
-      "C) 130",
-      "D) 140"
-    ],
-    "correctAnswer": "B"
-  },
-  {
-    "question": "48) Şekildeki karşılaşmada araçların geçiş hakkı sıralaması nasıl olmalıdır?
-    https://ehliyetsinavihazirlik.com/images/10sinav7/soru60.gif",
-    "options": [
-      "A) 1 - 2 - 3",
-      "B) 1 - 3 - 2",
-      "C) 3 - 1 - 2",
-      "D) 3 - 2 - 1"
-    ],
-    "correctAnswer": "B"
-  },
-  {
-    "question": "49) Araçların yüklü veya yüksüz olarak kara yolunda güvenli seyirlerini temin amacı ile uzunluk, genişlik ve yüksekliklerini belirleyen ölçülere ne denir?",
-    "options": [
-      "A) Dingil ağırlığı",
-      "B) Taşıma sınırı",
-      "C) Gabari",
-      "D) Hız sınırlayıcı"
-    ],
-    "correctAnswer": "C"
-  },
-  {
-    "question": "50) Yeşil ışıktan sonra yanan sarı ışıkta sürücü ne yapmalıdır?",
-    "options": [
-      "A) Kalkışa hazırlanmalıdır.",
-      "B) Yavaşlayıp durmalıdır.",
-      "C) Öndeki aracın sürücüsünü ikaz etmelidir.",
-      "D) Durup, yolu kontrol ettikten sonra geçmelidir."
-    ],
-    "correctAnswer": "B"
-  }
-]
+{
+  "id": "2025_01_13",
+  "title": "Ocak Ehliyet Deneme Soruları 13",
+  "desc": "2025 Ocak Ayı Sınav-13 Kurstanbul tarafından e-sınav müfredatına uygun olarak hazırlanmıştır.",
+  "questions": [
+    {
+      "question": "1) Yerleşim birimleri dışındaki kara yollarında, hangi tür taşıtların öndeki araçla olan takip mesafesi 50 metreden az olmamalıdır?",
+      "options": [
+        "A) Otomobil",
+        "B) Motosiklet",
+        "C) Tehlikeli madde taşıyan taşıt",
+        "D) Lastik tekerlekli traktör"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "2) Aşağıdakilerden hangisi burkulmalarda uygulanan ilk yardım ilkeleri arasında yer alır?",
+      "options": [
+        "A) Burkulan eklemin kalp seviyesinden aşağıda tutulması",
+        "B) Burkulan eklemin sıkıştırıcı bir bandajla tespit edilmesi",
+        "C) Burkulan eklemin sürekli hareket ettirilmesi",
+        "D) Burkulan ekleme turnike uygulanması"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "3) Şekildeki gibi park etmiş aracın hangi tarafında duraklama yapılamaz? https://ehliyetsinavihazirlik.com/images/sorular/8aralik2013ehliyetsorulari/soru38.jpg",
+      "options": [
+        "A) Önünde",
+        "B) Arkasında",
+        "C) Yol tarafındaki yanında",
+        "D) Ön ve arkasına 50 metre mesafede"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "4) Kullanma kılavuzuna göre, belirli kilometre sonunda araçta aşağıdakilerden hangisi değiştirilmelidir?",
+      "options": [
+        "A) Direksiyon simidi",
+        "B) Yağ filtresi",
+        "C) Radyatör",
+        "D) Dikiz aynaları"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "5) Benzin motorlu araç su birikintisinde ıslanarak stop ederse, çalıştırmak için ne yapılır?",
+      "options": [
+        "A) Arka arkaya marş yapılır.",
+        "B) Depoya benzin ilave edilir.",
+        "C) Marş sisteminin parçaları kurulanır.",
+        "D) Ateşleme sisteminin parçaları kurulanır."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "6) Kalp masajı yapılacak olan kazazede hangi pozisyonda ve nereye yatırılmalıdır?",
+      "options": [
+        "A) Sırtüstü, sert bir zemine",
+        "B) Yüzüstü, sert bir zemine",
+        "C) Sırtüstü, yumuşak bir zemine",
+        "D) Yüzüstü, yumuşak bir zemine"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "7) I- İtfaiye araçları II- Toplu taşıma araçları III- Yaralı ve acil hasta taşıyan araçlar\nVerilenlerden hangileri geçiş üstünlüğüne sahip araçlardandır?",
+      "options": [
+        "A) Yalnız I",
+        "B) I ve II",
+        "C) I ve III",
+        "D) I, II ve III"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "8) Boyun kırıklarında, yanlış taşıma ve gereksiz hareketler sonucu omurilik zedelenmesine bağlı olarak vücutta aşağıdakilerden hangisi meydana gelebilir?",
+      "options": [
+        "A) Felç",
+        "B) Saç dökülmesi",
+        "C) Bulantı ve kusma",
+        "D) Bedensel aktivitede artma"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "9) Buzlanmanın olduğu yolda sürücünün aşağıdakilerden hangisini yapması doğrudur?",
+      "options": [
+        "A) Ani fren yaparak durmaya çalışması",
+        "B) Takip mesafesini azaltması",
+        "C) Takip mesafesine uyması",
+        "D) Takip mesafesini artırması"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "10) Şekildeki trafik işareti neyi bildirir? https://ehliyetsinavihazirlik.com/images/10sinav7/soru39.gif",
+      "options": [
+        "A) Kasisli yola girileceğini",
+        "B) Yolda çalışma için",
+        "C) Yolun trafiğe kapalı olduğunu",
+        "D) Motorlu taşıtların giremeyeceğini"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "11) Araç lastiği değiştirilirken, aracın kriko ile kaldırılması durumunda aşağıdakilerden hangisi yapılır?",
+      "options": [
+        "A) El freni çekilir.",
+        "B) El freni bırakılır.",
+        "C) Debriyaja basılır.",
+        "D) Vites boşa alınır."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "12) Aşağıdakilerden hangisi çevre kirliliğine yol açar?",
+      "options": [
+        "A) Mümkün olduğunca otobüs, vapur, tren, metro gibi toplu taşıma araçlarının kullanılması",
+        "B) Bakımsız araçlardan yere (yağ, su vb.) sızıntı olması",
+        "C) Tehlikeli maddelerin usulüne uygun taşınması",
+        "D) Araç bakımlarının sürelerinde yapılması"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "13) Debriyaj bilyasının sık sık bozulmasının sebebi aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Taşıt hareket hâlinde iken debriyaj pedalına yarım basılıyordur.",
+        "B) Debriyaj pedalına hiç basılmıyordur.",
+        "C) Debriyaj pedal boşluğu fazladır.",
+        "D) Debriyaj teli kopmuştur."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "14) Sürücüler dönüşlerde aşağıdakilerden hangisini yapmak zorundadır?",
+      "options": [
+        "A) Niyetini dönüş lambasıyla önceden bildirmek",
+        "B) İşaret verdiği anda aniden şerit değiştirmek",
+        "C) Dönmeye başladıktan sonra işaret vermek",
+        "D) Arkadan gelen araçlara yol vermek"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "15) Aşağıdakilerden hangisi araca binmeden önce yapılması gereken kontrollerdendir?",
+      "options": [
+        "A) Ayna ayarları",
+        "B) Yakıt seviyesi",
+        "C) Araç lastikleri",
+        "D) Koltuk ayarları"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "16) Trafikte hangi temel değere sahip olan sürücü, kendini yaya olan yol kullanıcısının yerine koyar ve aracını kaldırıma park etmekten kaçınır?",
+      "options": [
+        "A) Empati düzeyi yüksek",
+        "B) Görgü seviyesi düşük",
+        "C) Sorumsuz",
+        "D) Bencil"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "17) Aksine bir işaret yoksa yerleşim yeri dışındaki bölünmüş kara yolunda, şekildeki 1 numaralı aracın azami (en yüksek) hızı saatte kaç kilometredir? https://ehliyetsinavihazirlik.com/images/17aralik2016/22.gif",
+      "options": [
+        "A) 50",
+        "B) 70",
+        "C) 90",
+        "D) 110"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "18) Aksine bir durum yoksa yerleşim yeri dışındaki kara yollarında, geceleri hangi ışıkların yakılması zorunludur?",
+      "options": [
+        "A) Uzağı gösteren ışıkların",
+        "B) Acil uyarı ışıklarının",
+        "C) Park ışıklarının",
+        "D) Sis ışıklarının"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "19) Motor çalışır durumda iken aracın gösterge panelinde yağ basıncı ikaz ışığı yanıyorsa sebebi aşağıdakilerden hangisi olabilir?",
+      "options": [
+        "A) Fren hidroliğinin eksilmesi",
+        "B) Karterde yağın kalmaması",
+        "C) Depodaki yakıtın azalması",
+        "D) Radyatörde antifrizin olmaması"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "20) Kırık ve çıkık bölgesine ilk yardım olarak aşağıdaki işlemlerden hangisi yapılır?",
+      "options": [
+        "A) Hareketsiz kalması sağlanır.",
+        "B) Kuvvetli masaj yapılır.",
+        "C) Sürekli buzla ovulur.",
+        "D) Turnike uygulanır."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "21) Trafik görevlisinin hangi hareketi 'trafiği yavaşlatma' işaretidir?",
+      "options": [
+      "A) https://ehliyetsinavihazirlik.com/images/10sinav3/soru37a.gif",
+      "B) https://ehliyetsinavihazirlik.com/images/10sinav3/soru37b.gif",
+      "C) https://ehliyetsinavihazirlik.com/images/10sinav3/soru37c.gif",
+      "D) https://ehliyetsinavihazirlik.com/images/10sinav3/soru37d.gif"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "22) I. Reflektör II. İlk yardım çantası III. Yangın söndürme cihazı\nOtomobillerde yukarıda verilenlerden hangilerinin bulundurulması zorunludur?",
+      "options": [
+        "A) Yalnız I",
+        "B) I ve II",
+        "C) II ve III",
+        "D) I, II ve III"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "23) Aşağıdakilerden hangisi ilk yardımın temel uygulamalarından biri değildir?",
+      "options": [
+        "A) Koruma",
+        "B) Kurtarma",
+        "C) Bildirme",
+        "D) Tedavi etme"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "24) Aşağıdakilerden hangisi omurga yaralanmasına bağlı olarak meydana gelebilir?",
+      "options": [
+        "A) Saç dökülmesi",
+        "B) Bedensel aktivitede artma",
+        "C) Ağızdan köpüklü kan gelmesi",
+        "D) Yaralanma bölgesinin alt tarafında felç"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "25) Trafik denetim görevlileriyle iletişim kuran sürücünün, trafik adabı açısından özen göstermesi gereken davranış şekli aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Karşısındaki kişiyi suçlaması",
+        "B) Empati kurmaktan kaçınması",
+        "C) Karşısındaki kişiye saygı duyması",
+        "D) Karşısındaki kişiyi dinlemekten kaçınması"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "26) Trafik kurallarına harfiyen uyan bir sürücü için aşağıdakilerden hangisi söylenir?",
+      "options": [
+        "A) Saygısız",
+        "B) Bencil",
+        "C) Korkusuz",
+        "D) Farkındalık kazanmış"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "27) Aşağıdakilerden hangisi yağlama sisteminin parçasıdır?",
+      "options": [
+        "A) Distribütör",
+        "B) Karbüratör",
+        "C) Karter",
+        "D) Alternatör"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "28) Aşağıdakilerden hangisi enjektörlere sırası ile basınçlı motorin gönderir?",
+      "options": [
+        "A) Karbüratör",
+        "B) Yakıt filtresi",
+        "C) Besleme pompası",
+        "D) Yakıt enjeksiyon pompası"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "29) Aşağıdaki etkinliklerden hangisi stresi azaltır?",
+      "options": [
+        "A) Diğer şoförlere bağırmak",
+        "B) Hız yapmak",
+        "C) Kırmızı ışıkta geçmek",
+        "D) Derin nefes almak"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "30) Motorda hava filtresinin görevi nedir?",
+      "options": [
+        "A) Suyu temizlemek",
+        "B) Yağı temizlemek",
+        "C) Yakıtı temizlemek",
+        "D) Havayı temizlemek"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "31) Aşağıdakilerden hangisi trafik kazasında aslî kusur sayılır?",
+      "options": [
+        "A) Hızının gerektirdiği şeritten gitmemek",
+        "B) Fazla yolcu almak",
+        "C) Aşırı yük yüklemek",
+        "D) Karşı şeridi ihlal etmek"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "32) Aşağıdakilerden hangisi özel araçları gereksiz kullanmanın zararlarındandır?",
+      "options": [
+        "A) Yakıt tüketiminin azalması",
+        "B) Trafik yoğunluğunun artması",
+        "C) Trafik yoğunluğunun azalması",
+        "D) Yürüme alışkanlığı oluşturması"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "33) Marş motoru aşağıdaki parçalardan hangisine hareket iletir?",
+      "options": [
+        "A) Volan dişlisine",
+        "B) Diferansiyele",
+        "C) Amortisöre",
+        "D) Fan motoruna"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "34) Aşağıdakilerden hangisi elektrik devresindeki sigortanın görevidir?",
+      "options": [
+        "A) Aküyü şarj etmek",
+        "B) Bujilere giden akımı yükseltmek",
+        "C) Kısa devre olduğunda sistemi korumak",
+        "D) Endüksiyon bobinine giden akımı yükseltmek"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "35) Aracın gösterge panelinde şekildeki uyarı lambasının yanıyor olması neyi bildirir? https://ehliyetsinavihazirlik.com/images/sorular/29agustos/soru43.png",
+      "options": [
+        "A) El freninin çekiliğini",
+        "B) Yağ basıncının çok düştüğünü",
+        "C) Motor hararetinin çok yükseldiğini",
+        "D) Şarj sisteminde bir arıza olduğunu"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "36) Tehlikeli madde taşıyan araçlar arızalandığında aşağıdakilerden hangisi yapılmalıdır?",
+      "options": [
+        "A) Acil uyarı ışıkları ile diğer araç sürücüleri uyarılmalı",
+        "B) Aracın ön ve arkasına büyük boyutlu taşlar dizilmeli",
+        "C) Kırmızı ışık veren cihazlarla işaretlenip gözcü bulundurulmalı",
+        "D) Araç üzerine tehlikeli madde yazılı levhalar konulmalı"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "37) Hız sınırlarını yüzde otuzdan fazla aşmak suretiyle ihlal edenlerin, sürücü belgelerinin bir yıl süre ile geri alınabilmesi için, aynı suçun bir yıl içinde kaç kez işlenmesi gerekir?",
+      "options": [
+        "A) 5",
+        "B) 4",
+        "C) 3",
+        "D) 2"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "38) Şoka girmiş bir kazazedede kanın, beyin ve hayati organlara taşınmasını sağlamak amacıyla yapılan uygulama aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Baş, boyun ve gövde ekseninin korunması",
+        "B) Kazazedenin gömlek yakasının ve kemerinin gevşetilmesi",
+        "C) Sırt üstü yatırılarak ayaklarının 30 cm kadar yükseltilmesi",
+        "D) Başın yana çevrilerek, çenenin göğüsten uzaklaştırılması"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "39) Aracın gösterge panelinde bulunan şekildeki ikaz ışığı, aşağıdakilerden hangisidir? https://ehliyetsinavihazirlik.com/images/banners/soru49.gif",
+      "options": [
+        "A) Arka sis lambası ikaz ışığı",
+        "B) Hava yastığı ikaz ışığı",
+        "C) Akü şarj ikaz ışığı",
+        "D) ABS fren sistemi ikaz ışığı"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "40) 120 Km hızla giden bir otomobilin öndeki araç ile olan takip mesafesi en az kaç metre olmalıdır?",
+      "options": [
+        "A) 60",
+        "B) 70",
+        "C) 80",
+        "D) 30"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "41) Işıklı trafik işaret cihazında, hangisinin yanması yolun trafiğe kapanmak üzere olduğunu bildirir?",
+      "options": [
+        "A) Yeşil ışıktan sonra yanan sarı ışık",
+        "B) Kırmızı ışıkla birlikte yanan sarı ışık",
+        "C) Aralıklı yanıp sönen sarı ışık",
+        "D) Aralıklı yanıp sönen kırmızı ışık"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "42) Öndeki araç geçilirken, geçiş şeridinde ne kadar seyredilmelidir?",
+      "options": [
+        "A) Geçilen aracın boyunun yarısı kadar",
+        "B) Geçilen aracın ön hizasına gelinceye kadar",
+        "C) Karşıdan gelen araçla karşılaşıncaya kadar",
+        "D) Geriyi görme aynasından geçilen araç görülünceye kadar"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "43) Bilinmeyen bir kimyasal sıvıyı yeni içtiği fark edilen kişilere, ilk yardım olarak aşağıdakilerden hangisi uygulanır?",
+      "options": [
+        "A) Kusturma",
+        "B) Bol su içirme",
+        "C) Sarımsaklı yoğurt yedirme",
+        "D) İçtiği maddeyi sulandırıp verme"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "44) Araçların muayene süresi dolmasa bile, aşağıdaki hâllerin hangisinden dolayı özel muayenesi zorunludur?",
+      "options": [
+        "A) Üzerinde teknik değişiklik yapıldığında",
+        "B) Sürücüsü veya işleticisi değiştiğinde",
+        "C) Motoru bakımdan geçirildiğinde",
+        "D) Sahibi değiştiğinde"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "45) Şekildeki gibi sağa dönüş yapmak isteyen sürücülerin aşağıdakilerden hangisini yapması yanlıştır? https://ehliyetsinavihazirlik.com/images/sorular/8mart2014ehliyetsorulari/soru31.jpg",
+      "options": [
+        "A) Hızlarını azaltmaları",
+        "B) Dar bir kavisle dönmeleri",
+        "C) Dönüşlerini en sol şeritte tamamlamaları",
+        "D) Bulundukları şeritte en sağa yaklaşmaları"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "46) Şekildeki trafik işaretinin anlamı nedir? https://ehliyetsinavihazirlik.com/images/23araliksorulari/16.png",
+      "options": [
+        "A) Hemzemin geçit",
+        "B) Kontrollü demir yolu geçidi",
+        "C) Kontrolsüz demir yolu geçidi",
+        "D) Tramvay hattı ile oluşan kavşak"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "47) Aksine bir işaret yoksa, şekildeki araç için “otoyollarda” azami hız sınırı saatte kaç kilometredir? https://ehliyetsinavihazirlik.com/images/10sinav10/soru52.gif",
+      "options": [
+        "A) 110",
+        "B) 120",
+        "C) 130",
+        "D) 140"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "48) Şekildeki karşılaşmada araçların geçiş hakkı sıralaması nasıl olmalıdır? https://ehliyetsinavihazirlik.com/images/10sinav7/soru60.gif",
+      "options": [
+        "A) 1 - 2 - 3",
+        "B) 1 - 3 - 2",
+        "C) 3 - 1 - 2",
+        "D) 3 - 2 - 1"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "49) Araçların yüklü veya yüksüz olarak kara yolunda güvenli seyirlerini temin amacı ile uzunluk, genişlik ve yüksekliklerini belirleyen ölçülere ne denir?",
+      "options": [
+        "A) Dingil ağırlığı",
+        "B) Taşıma sınırı",
+        "C) Gabari",
+        "D) Hız sınırlayıcı"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "50) Yeşil ışıktan sonra yanan sarı ışıkta sürücü ne yapmalıdır?",
+      "options": [
+        "A) Kalkışa hazırlanmalıdır.",
+        "B) Yavaşlayıp durmalıdır.",
+        "C) Öndeki aracın sürücüsünü ikaz etmelidir.",
+        "D) Durup, yolu kontrol ettikten sonra geçmelidir."
+      ],
+      "correctAnswer": "B"
+    }
+  ]
+}
