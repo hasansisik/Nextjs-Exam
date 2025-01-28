@@ -1,23 +1,28 @@
 export const TVC1: string = `
 **1.1. Trafik Sistemi ve Tanımı**
 
-**Trafik Nedir?**
+**Trafik Nedir?**  
+  
 
 Trafik, insanların, hayvanların ve araçların karayolunda belirli kurallar çerçevesinde hareket etmesi sürecidir. Trafik, sadece bireylerin ulaşımını değil, aynı zamanda malların ve hizmetlerin taşınmasını da kapsar. Bu nedenle, trafik düzeni toplumsal yaşamın temel taşlarından biridir.
 
-**Trafik Sisteminin Unsurları**
+**Trafik Sisteminin Unsurları**  
+  
 
 **Trafik sistemi;**
 
-**Yol Kullanıcıları:** Sürücüler, yayalar, bisikletliler, motorlu ve motorsuz araç kullanıcıları.
+**Yol Kullanıcıları:** Sürücüler, yayalar, bisikletliler, motorlu ve motorsuz araç kullanıcıları.  
+  
 
-**Araçlar:** Kara taşıtları, bisikletler, motosikletler, ağır vasıtalar ve toplu taşıma araçları.
+**Araçlar:** Kara taşıtları, bisikletler, motosikletler, ağır vasıtalar ve toplu taşıma araçları.  
+  
 
 **Yollar ve Altyapı:** Karayolları, köprüler, trafik ışıkları, levhalar ve diğer ulaşım altyapıları.
 
 **Trafik Neden Önemlidir?**
 
-Trafik, günlük yaşamın devamlılığını sağlar. Güvenli bir trafik düzeni, sadece kazaların önlenmesi değil, aynı zamanda çevreye duyarlılık, ekonomik verimlilik ve toplum huzuru açısından da büyük önem taşır.
+Trafik, günlük yaşamın devamlılığını sağlar. Güvenli bir trafik düzeni, sadece kazaların önlenmesi değil, aynı zamanda çevreye duyarlılık, ekonomik verimlilik ve toplum huzuru açısından da büyük önem taşır.  
+  
 
 **Trafik Akışının Sağlanması**
 

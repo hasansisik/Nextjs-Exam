@@ -4,7 +4,8 @@ import lessonData from '../../../lesson.json';
 import * as lessonContents from '@/lessonData';
 import ReactMarkdown from 'react-markdown';
 import { useEffect, useState } from 'react';
-
+import remarkGfm from 'remark-gfm'; // Import the plugin
+import remarkBreaks from 'remark-breaks'; // Import the plugin
 
 export default function LessonDetailPage() {
   const searchParams = useSearchParams();
@@ -45,6 +46,7 @@ export default function LessonDetailPage() {
     <div className="container mx-auto p-8">
       <div className="prose max-w-none">
         <ReactMarkdown
+          remarkPlugins={[remarkGfm, remarkBreaks]} // Add the plugins here
           components={{
             p: ({ node, children, ...props }) => {
               if (
